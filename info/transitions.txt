@@ -1,0 +1,18 @@
+These brain transitions refer to different stages or changes in cognitive status or brain health over time. They are typically used in the context of studying neurodegenerative diseases, particularly Alzheimer's disease (AD), and are often derived from diagnostic imaging, cognitive assessments, or other biomarkers. Here's what each transition represents:
+
+    CN-CN (Cognitively Normal to Cognitively Normal)
+        Indicates that the individual remained cognitively normal over the study period, with no significant decline.
+
+    MCI-MCI (Mild Cognitive Impairment to Mild Cognitive Impairment)
+        Represents stability in a state of mild cognitive impairment (MCI), which is a stage between normal cognition and dementia. The individual shows no progression to more severe cognitive decline during the observed period.
+
+    MCI-AD (Mild Cognitive Impairment to Alzheimer’s Disease)
+        Indicates a progression from MCI to Alzheimer’s disease, suggesting worsening cognitive and functional abilities consistent with a clinical diagnosis of AD.
+
+    AD-AD (Alzheimer’s Disease to Alzheimer’s Disease)
+        Represents stability within the Alzheimer's disease stage, implying no significant change in clinical diagnosis but could still involve worsening symptoms.
+
+    CN-MCI (Cognitively Normal to Mild Cognitive Impairment)
+        Indicates a decline from normal cognitive function to MCI, often seen as an early warning sign of potential progression toward Alzheimer’s disease or another form of dementia.
+
+These transitions are crucial in research for understanding the progression of Alzheimer’s disease and related disorders, as well as for developing interventions to slow or prevent cognitive decline.
