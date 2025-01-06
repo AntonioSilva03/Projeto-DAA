@@ -1,0 +1,6140 @@
+Column: ID
+006_S_0681
+941_S_1203
+011_S_0003
+057_S_0779
+033_S_0920
+002_S_0729
+098_S_0896
+116_S_0370
+007_S_0101
+127_S_1419
+116_S_0382
+022_S_0129
+027_S_1082
+031_S_0554
+051_S_1296
+099_S_0054
+029_S_0824
+099_S_0051
+031_S_0568
+029_S_0878
+116_S_0487
+002_S_0685
+013_S_0325
+067_S_0176
+021_S_0647
+023_S_0963
+023_S_0625
+941_S_1197
+029_S_0845
+007_S_1222
+035_S_0156
+037_S_0539
+007_S_0414
+021_S_0231
+022_S_0066
+023_S_0887
+005_S_0223
+137_S_0301
+011_S_0053
+013_S_0240
+023_S_0031
+053_S_0507
+021_S_0753
+131_S_0441
+035_S_0292
+031_S_1209
+014_S_0328
+062_S_0793
+067_S_0607
+002_S_1018
+116_S_1271
+099_S_0372
+094_S_0711
+133_S_0433
+129_S_1246
+023_S_0916
+052_S_1168
+136_S_0186
+041_S_0679
+099_S_0352
+021_S_0337
+137_S_0973
+029_S_0914
+127_S_0259
+041_S_1002
+027_S_0403
+116_S_0361
+127_S_0431
+051_S_1131
+099_S_0470
+094_S_1314
+020_S_0097
+133_S_0638
+133_S_1031
+020_S_0899
+116_S_0649
+014_S_0558
+057_S_0934
+023_S_0926
+031_S_1066
+005_S_0221
+137_S_1041
+033_S_0923
+037_S_0150
+016_S_0359
+036_S_0869
+036_S_0760
+137_S_1414
+057_S_0643
+002_S_1268
+023_S_0083
+016_S_1117
+005_S_1341
+036_S_0813
+024_S_1063
+098_S_0160
+002_S_0782
+005_S_1224
+067_S_0077
+014_S_0563
+035_S_0341
+036_S_0759
+006_S_1130
+023_S_0604
+013_S_0996
+031_S_0294
+033_S_0733
+006_S_0675
+131_S_0384
+127_S_0112
+023_S_1262
+041_S_1260
+133_S_0488
+052_S_1054
+062_S_0768
+057_S_1217
+041_S_1418
+067_S_0029
+133_S_0525
+007_S_0698
+037_S_1078
+041_S_1368
+033_S_0725
+011_S_0023
+037_S_0552
+057_S_0464
+094_S_0526
+007_S_1206
+941_S_1195
+098_S_0149
+136_S_0873
+099_S_0534
+033_S_1283
+029_S_1073
+037_S_0377
+002_S_1070
+027_S_0118
+116_S_1232
+133_S_0792
+033_S_0723
+052_S_0989
+053_S_0919
+007_S_1339
+027_S_1081
+031_S_0618
+002_S_0938
+037_S_0327
+016_S_1121
+021_S_0273
+011_S_0861
+131_S_0123
+027_S_0120
+007_S_0041
+016_S_1326
+005_S_0546
+098_S_0269
+013_S_0502
+029_S_1318
+027_S_0179
+052_S_0671
+098_S_0172
+033_S_0906
+041_S_0262
+011_S_0326
+011_S_0010
+023_S_1247
+116_S_0648
+029_S_1215
+041_S_0314
+007_S_0344
+114_S_1106
+005_S_0572
+114_S_0166
+037_S_0454
+029_S_1056
+021_S_0626
+020_S_1288
+021_S_0141
+021_S_0159
+062_S_0690
+137_S_0686
+033_S_0513
+057_S_1265
+136_S_0429
+027_S_1045
+002_S_0413
+099_S_0090
+014_S_0519
+131_S_0457
+033_S_0734
+114_S_0416
+027_S_1385
+073_S_0565
+033_S_1086
+007_S_0293
+035_S_0997
+036_S_0656
+007_S_0128
+036_S_0577
+073_S_0089
+013_S_0575
+036_S_0672
+002_S_0559
+062_S_0730
+041_S_1425
+116_S_1249
+031_S_0830
+127_S_1427
+073_S_0746
+033_S_0739
+035_S_0048
+114_S_0979
+005_S_0602
+033_S_0516
+023_S_0217
+057_S_1379
+020_S_0883
+137_S_0972
+062_S_0535
+023_S_0126
+005_S_0324
+133_S_1170
+027_S_0256
+041_S_0898
+036_S_0576
+014_S_0658
+023_S_0042
+023_S_0058
+094_S_1267
+052_S_1250
+052_S_0952
+073_S_0909
+022_S_0130
+023_S_0388
+006_S_0547
+129_S_0778
+116_S_1243
+029_S_1384
+011_S_1282
+116_S_1315
+053_S_1044
+037_S_0467
+016_S_1028
+067_S_0812
+099_S_0533
+131_S_1301
+136_S_0695
+131_S_1389
+002_S_1155
+052_S_1251
+051_S_1123
+007_S_0316
+016_S_0538
+116_S_0392
+036_S_0673
+114_S_0378
+094_S_1164
+005_S_0222
+116_S_0834
+127_S_0925
+033_S_0514
+031_S_0351
+013_S_1035
+021_S_0343
+036_S_0976
+023_S_0093
+036_S_1023
+027_S_0835
+007_S_0068
+023_S_0331
+002_S_0295
+002_S_1261
+067_S_0290
+136_S_0107
+114_S_0601
+133_S_0493
+003_S_1057
+011_S_0016
+073_S_0518
+137_S_0631
+067_S_0257
+057_S_1371
+127_S_0754
+067_S_0076
+127_S_1140
+011_S_0241
+005_S_0610
+036_S_1240
+021_S_1109
+133_S_0727
+033_S_0724
+021_S_0276
+137_S_0366
+057_S_0818
+033_S_1098
+094_S_0434
+053_S_0389
+033_S_1016
+021_S_0424
+137_S_0459
+094_S_1241
+067_S_0177
+036_S_0748
+053_S_0621
+141_S_0767
+
+Column: Image
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0681...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1203...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0003...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0779...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0920...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0729...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0896...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0370...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0101...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1419...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0382...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0129...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1082...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0554...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1296...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0054...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0824...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0051...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0568...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0878...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0487...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0685...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0325...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0176...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0647...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0963...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0625...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1197...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0845...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1222...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0156...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0539...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0414...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0231...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0066...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0887...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0223...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0301...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0053...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0240...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0031...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0507...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0753...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0441...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0292...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_1209...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0328...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0793...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0607...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1018...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1271...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0372...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0711...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0433...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_129_S_1246...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0916...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1168...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0186...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0679...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0352...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0337...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0973...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0914...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0259...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1002...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0403...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0361...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0431...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1131...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0470...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1314...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0097...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0638...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_1031...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0899...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0649...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0558...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0934...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0926...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_1066...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0221...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_1041...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0923...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0150...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_0359...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0869...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0760...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_1414...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0643...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1268...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0083...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1117...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_1341...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0813...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_024_S_1063...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0160...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0782...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_1224...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0077...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0563...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0341...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0759...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_1130...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0604...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0996...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0294...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0733...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0675...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0384...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0112...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_1262...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1260...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0488...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1054...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0768...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1217...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1418...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0029...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0525...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0698...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_1078...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1368...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0725...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0023...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0552...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0464...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0526...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1206...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1195...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0149...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0873...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0534...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1283...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1073...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0377...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1070...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0118...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1232...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0792...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0723...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0989...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0919...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1339...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1081...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0618...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0938...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0327...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1121...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0273...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0861...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0123...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0120...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0041...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1326...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0546...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0269...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0502...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1318...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0179...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0671...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0172...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0906...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0262...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0326...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0010...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_1247...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0648...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1215...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0314...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0344...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_1106...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0572...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0166...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0454...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1056...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0626...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_1288...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0141...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0159...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0690...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0686...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0513...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1265...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0429...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1045...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0413...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0090...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0519...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0457...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0734...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0416...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1385...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0565...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1086...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0293...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0997...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0656...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0128...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0577...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0089...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0575...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0672...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0559...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0730...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1425...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1249...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0830...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1427...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0746...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0739...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0048...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0979...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0602...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0516...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0217...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1379...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0883...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0972...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0535...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0126...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0324...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_1170...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0256...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0898...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0576...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0658...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0042...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0058...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1267...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1250...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0952...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0909...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0130...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0388...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0547...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_129_S_0778...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1243...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1384...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_1282...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1315...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_1044...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0467...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1028...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0812...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0533...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_1301...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0695...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_1389...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1155...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1251...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1123...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0316...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_0538...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0392...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0673...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0378...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1164...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0222...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0834...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0925...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0514...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0351...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_1035...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0343...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0976...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0093...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_1023...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0835...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0068...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0331...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0295...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1261...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0290...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0107...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0601...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0493...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_003_S_1057...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0016...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0518...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0631...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0257...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1371...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0754...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0076...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1140...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0241...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0610...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_1240...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_1109...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0727...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0724...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0276...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0366...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0818...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1098...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0434...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0389...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1016...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0424...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0459...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1241...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0177...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0748...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0621...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_141_S_0767...
+
+Column: Mask
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0681...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1203...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0003...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0779...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0920...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0729...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0896...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0370...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0101...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1419...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0382...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0129...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1082...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0554...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1296...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0054...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0824...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0051...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0568...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0878...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0487...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0685...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0325...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0176...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0647...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0963...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0625...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1197...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0845...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1222...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0156...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0539...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0414...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0231...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0066...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0887...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0223...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0301...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0053...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0240...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0031...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0507...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0753...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0441...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0292...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_1209...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0328...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0793...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0607...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1018...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1271...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0372...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0711...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0433...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_129_S_1246...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0916...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1168...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0186...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0679...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0352...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0337...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0973...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_0914...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0259...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1002...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0403...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0361...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0431...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1131...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0470...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1314...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0097...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0638...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_1031...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0899...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0649...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0558...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0934...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0926...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_1066...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0221...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_1041...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0923...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0150...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_0359...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0869...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0760...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_1414...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0643...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1268...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0083...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1117...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_1341...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0813...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_024_S_1063...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0160...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0782...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_1224...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0077...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0563...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0341...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0759...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_1130...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0604...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0996...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0294...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0733...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0675...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0384...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0112...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_1262...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1260...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0488...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1054...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0768...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1217...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1418...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0029...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0525...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0698...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_1078...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1368...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0725...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0023...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0552...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0464...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0526...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1206...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_941_S_1195...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0149...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0873...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0534...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1283...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1073...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0377...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1070...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0118...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1232...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0792...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0723...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0989...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0919...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_1339...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1081...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0618...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0938...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0327...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1121...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0273...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0861...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0123...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0120...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0041...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1326...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0546...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0269...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0502...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1318...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0179...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0671...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_098_S_0172...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0906...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0262...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0326...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0010...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_1247...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0648...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1215...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0314...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0344...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_1106...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0572...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0166...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0454...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1056...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0626...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_1288...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0141...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0159...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0690...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0686...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0513...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1265...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0429...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1045...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0413...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0090...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0519...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_0457...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0734...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0416...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_1385...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0565...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1086...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0293...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0997...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0656...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0128...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0577...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0089...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_0575...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0672...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0559...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0730...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_1425...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1249...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0830...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1427...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0746...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0739...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_035_S_0048...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0979...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0602...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0516...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0217...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1379...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_020_S_0883...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0972...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_062_S_0535...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0126...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0324...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_1170...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0256...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_041_S_0898...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0576...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_014_S_0658...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0042...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0058...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1267...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1250...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_0952...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0909...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_022_S_0130...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0388...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_006_S_0547...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_129_S_0778...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1243...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_029_S_1384...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_1282...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_1315...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_1044...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_037_S_0467...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_1028...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0812...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_099_S_0533...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_1301...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0695...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_131_S_1389...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1155...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_052_S_1251...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_051_S_1123...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0316...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_016_S_0538...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0392...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0673...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0378...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1164...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0222...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_116_S_0834...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0925...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0514...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_031_S_0351...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_013_S_1035...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0343...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0976...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0093...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_1023...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_027_S_0835...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_007_S_0068...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_023_S_0331...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_0295...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_002_S_1261...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0290...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_136_S_0107...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_114_S_0601...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0493...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_003_S_1057...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0016...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_073_S_0518...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0631...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0257...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_1371...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_0754...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0076...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_127_S_1140...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_011_S_0241...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_005_S_0610...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_1240...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_1109...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_133_S_0727...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_0724...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0276...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0366...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_057_S_0818...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1098...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_0434...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0389...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_033_S_1016...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_021_S_0424...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_137_S_0459...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_094_S_1241...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_067_S_0177...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_036_S_0748...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_053_S_0621...
+/notebooks/disk2/DS2_FreeSurfer/ADNI_141_S_0767...
+
+Column: diagnostics_Versions_PyRadiomics
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+2.2.0
+
+Column: diagnostics_Versions_Numpy
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+1.18.5
+
+Column: diagnostics_Versions_SimpleITK
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+1.2.4
+
+Column: diagnostics_Versions_PyWavelet
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+1.1.1
+
+Column: diagnostics_Versions_Python
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+3.7.7
+
+Column: diagnostics_Configuration_Settings
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+{'minimumROIDimensions': 2, 'minimumROISize': N...
+
+Column: diagnostics_Configuration_EnabledImageTypes
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+{'Original': {}, 'Wavelet': {}, 'LoG': {'sigma'...
+
+Column: diagnostics_Image-original_Hash
+b5d774a32163a7ee822d42a07808a787f8687f56
+397042d736bd790b7880b372b1749ff424f89cbe
+84d679a88812c4aaf03a6d99f00c913b2f64506f
+168f330d2ca3f097146e5d041f33b40672d230df
+ea5f291ea107dfda5e5c725eae7c0555ced44ce4
+0d5e9739f7219821e8be32fe0d1d41520d777964
+af744699dda45b9794441a0352c5532c666fbfa9
+973fb662e2242d2116b41c38e06ad4d52375bfd1
+c1b50f22b9ab6dce0b927399de8be60a6480d1ff
+242f948e82247fdadb01f93d15f35a1b53ac42a2
+5d27af3ec1bd66eb789d1c83eb72e4ad58f56823
+19e61050a96109d8aab751f8f0c4300fb4bcfd88
+54e338f3f81cc856a4372a7511b46a9c622b85b5
+23ed8085ed03283700430274ae2a50694bd2193c
+90c1e8b53ae25ee48bf5b56459d274e755a09cea
+4e37193d366637c001acede69642ca575675be78
+a6658a5972a5b1e448017a3a062e8074f3f917bf
+e0d74e99d1db2f3dcde153da120a00de08f233a4
+bd47f7bcad167705c4a2a6be3c4f579badd4235d
+27e28697f9ee644484656f455f4f31e7352cba68
+0e6a8f8c24ff7e9f723b5c80f0b1d97ce44bc6a4
+948c0b8ec054329c13d67e32cffdeb982c237b38
+b900b24ec2fd2ad2ceb5e70b8c59fa985c25560c
+de96264a26720e35ed12be6718f45ee3b9153314
+a8bc3b2262e993a52c3f8094e8c89f5927fb0abd
+3bd69ece470406a9418d596b3ff27dad51ddb654
+66b59ab569e899841dd3661c8cc945d01fc60b58
+399ab109aedc4a419a4d1b79d8d4af41b023bc66
+7046f519eeec2e18a6f9d6c19003989c139fedda
+aa470ed99b8e38ebbc9bb6889314e117d532dac9
+4217ec5f1b8507a3a42444a558c13916b892cab0
+da865eeed0c3c66d7e971664326d04ab0d39698d
+bc0d8340fa857dee793ae49f0f03f61ffc28eb35
+8e1c35456659ab61ca9e9f067daff3ecbc233e8a
+cef782be1399217004117747c613996345429b8e
+868412e0ab97f6ac81a9ff37e70e54fc42f0eb63
+bef2013a5344f5f2987ec54e25aa291b164a8fe0
+7ff01321b6d607d7361960aa396239c38beae89f
+4cd572eadbeacf87ccf38c8fec145faea58b3b8d
+7c2f007ef9d37d204182f0ff59b9aa1914a85a7b
+b294822cb7e1fbe3627d787229665f2e9139c0d0
+337afd1d19302b3e17fb5ffdcf9009ab2eca1f5e
+c112cc055c9f46445321e8532f43b4a10cd74309
+ecbda617f850a2a4c4475359c75a66ee1ed5b48f
+7aacf21447301ba0c936953896499b7571caba9d
+1c48531bcc0a8e255fdcb541ca613ec453e29769
+45af76e2860ffabbe6c0d8d253f89c4bf2fcee5e
+347d35e9b62ae1b0a8054cb0b11a00136ffbf1ae
+af0180d1b3955da373b2cbef3238851a148210d1
+2b63ca9271a4ea88f3dadf2d615f68bc5246cb09
+d36b51c8a3ced923286611333acb9de37a284517
+ed4993f94c9d0ea56627a67b01a7e8c8407fd307
+6276252a027b428a9a948afc911811cf9405d646
+ab83e0e3ed3dfd30272d2feb3e0ec2f1a24d70e6
+aededa44cd48ba89f249089835b50979c7d0caf3
+88f81fcc5f41f3adcd6b02aef40a27713bb1b275
+30d0d0591380d57c4a23bf7a6efe77562978609b
+4665daf86ec1bdb8f04f29a74a649bb546a38df7
+7163ca03304099bcd68abd1ec15db58f18c61fe7
+7c3d0f9caa1de229eca35acd5a38b8c6896e2328
+9d33f4b916e48a96e6b3daa0194953e11950fdfc
+5c9039b7f65347cb9f6159e8713c097f643a192f
+065f7f4022099f7eddda39da22d440ea8840b6ac
+d7380c6e20c2d9810c2406e85fe3677438a9585c
+315b9c6e7a4663a3e287f92c84157dce71f7b044
+45f205e2a175601382c519503fa7e1ea47564f19
+b8e51f38f76a03231aaf2ed087a0f3a31ec1dae7
+1ae6a96f5ef57ba6c724f0f52943eb2e9b751686
+62ed2fe8aa4b70153540a3acb2e1d4c7342ec630
+7428ca382be41444708e72f05ac28d4b871d8094
+1fd630e71151460ae28c9f1c57fd3d33421e3b43
+a9d40bcded709941be50f4bee7a8eafc4289bf84
+671b7e72f1a30aab41fb47054d821dc1d543a7a4
+ab30eaaf35c441c513307d4ec62006d27804f605
+0e5205c01759a2776bfb869ed75d2836ba59e27c
+cd091ef7139ceb373a8710381f307264815d47f4
+b2ad0babfbd1c9bb62d366e917d22e626708cf4f
+524dedc5e979c6d2db7540b1d75b3c0b9fa41bc7
+f32cad89306915965a3a078b029e9c9e8f492570
+3582f040c609134cda2a1c19ae753da90355d89d
+d597f150f7b6d7f5e47b5ecf8359857037f5cf7a
+1e88c8fc1ec7529c25c0216c78af0ab0cfaad5fc
+93336f3fa80fbb6a3b764a04c76e07e96a2dc802
+e377ddb944a3f35b1d1f918ad3dcabf9aab2c9d5
+807065f40b5228a8f1d775adb0196bf010447729
+37c3aade6bd37fb9fa124ab6c061ddee2fe3edc1
+4da24a771573713e567bd3abe359c9b005657199
+6f95826fdc6b51cc74b46fbd3f1ccc8f2d2f3006
+2a65270422eae22373b15f22afac63b7c27f2c74
+614ee8345c205dfd77c2525eac4f6799f994b7fe
+2dd29ec1f98c4eea3035cad327ed595320a1efd6
+879fa165dbe9ca50e16f4d7bb5629e6b352cf4af
+efd13cfb6d6ca39d01b21fcf84d5969426581fac
+e121f866faa6949d78e2d503b9da79aa222e7227
+8c6d630ffed1fa4ea8ba06e69ab401e9fcf0aa62
+34322a39196f2ebb7090d5e8ebb6b2e1de04be30
+60c4ce1daa95145b0ff56ea23ca54cc3f7392285
+0249fee37f1cd67ca4dac6ca82473fb7e7176461
+7f133e2b12769d437977e1f14aa2245de37fe43b
+d067cb89ca2c92d121865bb285fdbf3d9c451019
+1899436c4c8020c65747db2db6f9f53d7c9ff3c8
+d4a8c1840d55cca2972c7a62b907a44a2431cd5a
+5c9551e211553580d4cbd865b1a1fad99a9443d2
+7b4b28ea2ed133ae5ee5ea77951378200b0a613d
+d618e5acc0845cae3861c03b3fd7a11a938f68e7
+64f56f92d842731f24109bd1908f1521f14e2381
+a84129b23e57c24d8906dc730f6b08cb54419cc0
+d8a4884addde6ae101aa04bb7fcd6e4de9681f52
+d9b9d2462ef203e7b040ac4679776380037237d5
+14416956571cabd4ec570d33fd1152ff1b94d728
+8f8e70cc18607d4bc2c5b8b6dc0b3c5d3dafd37a
+1933b779f042681ed161701364878d7a9ac020d8
+a73ec6dfa2649c656a9f16aa31f5b8103da15dac
+a6a07ca43db05a4e94e68e4f1e191f9e720896f4
+de48caaf7d0a19f16045091a364eeafa41cfffbc
+15352de13ff8ae4939294a2ddb676c6413ccde9e
+e78bcfc0cfa18f6527e96553137b077aa99ee1ff
+f6e92e0fd17ec85030975b89d751f9274831b690
+3f40bef33d9e070975947bbb5b03da578e5ef415
+6a30755466ff0366ec18b076f072c021eebeab58
+481207dd6c681748e0b49e62cbdc057610ac06f4
+12df2f6a917ca64432e36991fcf3d2b238e411e1
+fd6dddc5b84a9b07c5ffc53e17951000f83cf690
+2a77d958a318129722cfc9137e65134f26ffebd3
+bffb1641bbe7beba4aed238b30365e3239cc20a7
+f30323c712557b604ac47d2c7ddb9f5395d906fe
+b42147066f268704412975239ab31c8cb787d0d2
+f2dff4aa850adf8584b361c5fc87698704f6f87c
+dbd7660338a784ce975ae1dc0375c2dc83333dea
+04f287d98945f13f82dc95fe1eeefcf7333b2c34
+3342059dcb46e194c4e5cc5388b4b82f872a1a4b
+780348a83b1ca329ee2e2667caa3f4734f17f091
+30751c3442157488a2ba8dd47ee3de73825104a9
+11faa9446abcf8bd9213f5d10d8eb868dbcedb1d
+8aea59fa200441470bdff759200a3a94737b827e
+ee7b2ff64a654d74a686f82e068f465928d54959
+e637ad1411d18666d1f80e3c4efc23fe5a6cbdce
+08ad6a15c42ca71bd4fc6bb717a147c4da961118
+23ff408fcceb801eaad70e41d8d988e9759e8d21
+b6f82e449be132657e6c02b8dcfb28b79a4cefbf
+13259d67d52aab1fb717a8ef86423c847708025e
+e6b7821204374954fec0fcd2214dfd8cdae18e6d
+212b4f07b11788052fb47d74833cb9b437833748
+a560ad04a5649805477b4643bda67af3a26a7ee7
+3d9f6dfad55fc312b9e130a276216af45817e451
+9407a49a289c74990b8f2dbc015b8ae5c07d2b80
+de4507ef688462dca25e0176074605570a281790
+eb0104d5d839e91eb840961d2a84f8d492ce0ebc
+9ee56579f9293d5c5d4b8d2128de8185231319e6
+3d32634f20e12fbdf7cc516c892696506e2ce1d0
+8d981ba6931fc4ab2425065ce4ef80cf0eec4798
+b14c597981da0667692ce63c4f5ff3e83bf8a32f
+e53ddceea66e336ccc98505a4b2552f0d7d5cc11
+6571ef52c16015b7121eac709591c3fba6505401
+936e7c57acdc2e7548f9f0e3f0de9f574fa93ad6
+99a5ef8ed2462a193fce85bb75277719e0af2b60
+4346c8029d0f0f5d925979d4361cfc0540acf07c
+6b55f80d36bf3da88576e7661598f468096817d7
+6fcfebdf2827e246f2c0fb9ea5c6942729da9a84
+c648bafa7a23e1aaa1a6ee34fc6e77748241509a
+b649b2ab27bd0e383c0f3edc2229c01472c1ed12
+a63fd00b5947ce6dc85490dd863827acf5edb8e5
+0db5d6c8b547918ebdea9e84046147c16b2f5e21
+317f8c1c8b52ec807ebdeabcc2a76d47066096fc
+fa6ba675efd4b4596693a6ff3bae11516ceddbbb
+1c45c54098b3563a8b57ad6b121ffd5f9ccad2f2
+7a55cdf832a13b430c9c2c7879475c0afe43918f
+3f67a0be2aec73a997a1b9de15fd8b3655a579bd
+5018ad6c36d43d20b37120df7a76f2611b3683cf
+2a926dee9615366641dbf99d445a9e128c6d02e1
+7605f186d0a988202a4592b76452b448aa1ff819
+984d9a1398203ca0935e7b8996625296b334d3b5
+2af6c0a851c076b987a148eb5dd5cefc89f67498
+6b98dff791761f7bf6a3774b996696c838107b40
+a709e47b36661790e07c521bc2a37cfac9417e55
+bc9bac238037251ffee34ccfe25ba2b3650047ec
+b39b1042fbb2bdab7fcd432784f6c6fcf31fc439
+1031fbaa0564657487b0b30182ee00114977b68f
+203597513338f76feab763d40d822707ffcfe8f5
+fd5be0b15330417944eeb6800cf3b16dbbf10fb9
+f0d538575467663080ea93bc6dbe29f68a9df6c6
+fb96c1298f8e2e0e1d55d22499e8abbd1abb31a8
+2d2646c2cbaf0713a55239d13f33def87e16d33c
+35781587f6a0ed5817db2af83b69884a138121de
+234c938f05886f6325d2a18c29c2b7c384701c29
+2aec89c50770246478f4b1a737abae4912a6e330
+e6e2e8de8f527114203b9fa9dd25ebb66bcab432
+e0dcc04ef6945b1e500c1f06bf1878ed4292b913
+5cf80c52f650eec6476ca7b4efa48ab40407a806
+08e56dac129f43aa30a29d28e9c23dc5c048cf4f
+be05a391532a94fdd84772fed93246d07b88c3a0
+45c6b919aedd68ebd6fc995431c1f853221e0e42
+52ddeccaf4fd7cfd9eeecfe7e24e706cec73e7cb
+5532fb2f1a3934632375157518994e8aebc58c06
+9c8583502cdc5d66c8f1fecd02c8dc1b3c7c4cf6
+476c87e375099121c9919f353c3b519a36fe4f96
+e6f9d6e7acb35b88980ba9330737bfc7fdab1054
+371783203e62e394ab4484279e1a012b5f10bb67
+f5bc560da80d1e83cd98260f2634b5bd01998ab4
+329019b2f288a925c6191c5973ceb0c01a6f5fc7
+8c30ba48559317a09f6d79e11cae964571e43bab
+0cea39d5023f6d5163a0d0d01d4e7573623e3e4c
+6c70f987af20b1f89ba73b1d4966b156a34f03b9
+fdd2504ab1db6d84b83451f7e45173541179838e
+4f62246499eee4a7dcb2a98e028f44f1ca79c9e3
+2674f9b7c7698da8c87a77ec05dcc0be2e7b26e2
+20758832b0cd6b0334683238e8592ec314c33201
+11edfd614d4197f250a5d68945e78de327fd428e
+fddd74f24faf11f3c1bb35e799ac0bfdca64e551
+3d1da18d52e548dd04806241d04622f5c792c0d0
+47964f5908c5b64496cb3d6e140b9e07e535f301
+ceddec4a6aa9b6744dfe4b1a5e1f1179b47cb49e
+72b1812883ee7a231a5533ed7ed8fe934e42bc7e
+b1461da6a3b799c404533ebf1c02b11ccbc9adf8
+8c16003162038ea6d0977987c802fd145e81db79
+29f7243ececc32258a8e8becfaf5698f58a17a21
+9f76838800aae3abcd776ee861a1042d73ab9101
+3f8d2e7463e3d052c639f27e726ed9610710e22e
+bb05cc8474d1b226dabcf47bc98af3f3bea32496
+0ea801e96f07ac05cfb5d02f4f409389b60e30b0
+78afcd680459424aa5a08635881316c8b2ebb075
+51c5b154610b928fcaa7aa8877e130b06a9aa1af
+6dd3f30802b84a31ec7ab4156f9d6c92ae29e93e
+937bdfeaf36075bfe9ab1e9ac04534ac947d3bc6
+b1eee47aa9b9745285819a3c3a2437eb8b4185d3
+dfb353713e51286bb9820ff584eb35f9e2951652
+01fdfad479f4f6ac41c4134aa356cb9597e00cda
+33a7fd1eabe6a90039075dd35f285025a5128e75
+33360bf8f94ea5070b00a14adbef1dd356f4c44c
+f37f69a5a9fc21f7263bae840541eb6f1fd61809
+365c645dcb22b0538048cd98a9fd6c25366d0944
+4f18a39ef3e6cea38a9133ceeaa88d58b1ea0b03
+8e27dcefb9b5c480cde7b801436b954c5639c593
+8c5785c4da22be525a9e5edcf2b4bdbc6a8d2c63
+bb3afd322a123e6ba1372ddb4fff564ee6483bbb
+b94decb7df2e6493d872968d675035a884a0cf53
+584922bbd20b8d0f893301cc090495ae82678561
+5edb78cf6fa731af21728ca3cadc0ad40ee9281e
+08607ab25275bcd8d484515e81786afab7d3ca7c
+73f7486cceedaece63039a9f3f5e64e6761b8c06
+536ec4f8773ccc7c756d7c2d11e6ca989aba2c52
+f2283de957578d447fc64b55d05780f3827967e5
+70f92e264517f07874c92a0aaf2b60797d692a9e
+585bf38106b76f15b68e451cfad5bb0e35d48587
+7a15b151372f3c2c3ce93e0a096b525e65a8c928
+54b4d5d9cf18ce80469f817882bfd7ac22b1dfe0
+3d6f043122f37575dd661e9e141b0af9d7c4eaa2
+e03185b3bbc494b1e69695448733267f36f78641
+a79cbfd3dbea14639ede4c66d092b479926d43ff
+dd97257be765d65f9f0f68ea31de0565f10dc258
+6a741d26aa72bb9956d703eaea2b70dabd3f2d63
+037bd31c8cb1c6b208998ce94abaa89c98d90f8e
+36c080a4c623c60d685bf625277f500665146691
+e15cba4dd5e9cb462e3ab178b4a73fc305f32805
+af5157cc477dfa128a24714e857d9cf94eb54d7c
+e2dcb217c14add06cd268d3af918276db6bcf423
+72c3addb53d3141d5b0bced4e37cb5491592ccc0
+deeabf63400c1596cd2bd3221823a674d539aef6
+5d3f3f97949f95099a49370afcf7882252226257
+c7b3f060bb78d8e6d81713e5823041ebc2daa84d
+4100b6ad2e401121c321c7704e1b55c808a51874
+04ab031f2d0f58fcf5e00e32dc42ce6762c4c0ea
+77db28be28bd0585c609e8c239699216dd6e07b5
+a94d2f082849446545c706a198d20c4670dd66df
+9a2a8284187b27f64e9d3c309e4cb26f4a60adb1
+1a2b59f87ca60cdae0af04efce461c128ffdd3d4
+03a9d79f8b1a0b7a3106dea986e192688dea428d
+646e4a00f8c3057c649a97977f6913a8013ccb0d
+d872de0b231dfed69387fe2462f96b436e76520d
+ed50e868a0515ddf137d2dd1579c146e794d0fe3
+a7d3b9aa9189f7c56d5c6421832a870096465072
+db8db35c0e57b38dbebb2444eb810ef79042975c
+2968a2014123db629df85b9d58d70e9e91e0cb2c
+5169aac967c324f20e6f7642dde3f26c5e9e9cab
+0099add8b4667a711319f5cab50126848e5a6d08
+35d69d842fdc34d8e6b60d9bb9c900e8f78d282b
+2f8f071ed8880ea73938a1967fbecb2575b1f643
+b425e192b44dd6e1146200b1d8c0604cff9a7ea5
+13be71629e08f41525d0dbfd6ac2d4d69af24d98
+1b7e2af47d2397569cfb4d16dba9a27c81fc83f0
+88ab775e9c7984fe6f8954fde84f182db07d5acd
+cca6fc3a93318886f4dc8b983db8aa1ce4678c18
+e52b94a7e870b607b92f9774705212f02955e318
+b39eee9482b2b39f80d4027ee4d74113dd84669f
+ced1ca3acbea9061db346a47f56e50788fe79741
+c8d5609d2ceadb28e4ec56cae10b60821bac28f5
+90fd53b0d4d87e619a56ef7f02587f7dac20d44b
+fdaa21c6065d054dff251c5d17d7943666561be6
+0550f175b5844ddbaa360d2cea381edfb95ca26b
+3c0c97ae68f5e376677fb9f7bb3be3f52c892d21
+a585c7cacea8c5b6d9c9822a89f1cbdb34646164
+3fdb7e7c6d85b6506a9a431b3d6e40bab2f40b06
+4a8af82171eb4806a7cb8359859af2dac88d4e52
+693d7c99a97001dd5bf66cd55767c9da905a0a6d
+068b93393519caec32dad7692282ae03bafffd57
+957c6cb2b5628d12651d535f72819bee2ab3e55f
+cd12b6e50273b57e0ce2f198fe9d52329b688fa4
+4561867dfc773231513cf1cb85ae0637c3f3bb0d
+a8f4bc6813657555380bb91e512a1bc35c78ff42
+56bfb688138f2c9d2aa7eb3159fdd5a38a794ce3
+378e450ae013e20e1fbf6e0b3ec9a27adcabb48d
+fcc41c968ebeb6980d175c41dbf6dd80befa801e
+8123ad6d9ff372737d94e146c7174e2f32b7b44a
+cb03c6cd87f3c5eb6485b54d47a7cc8902db4598
+63aca41d5c87b25b6004b6338fbb9c6f8ca3efa0
+
+Column: diagnostics_Image-original_Spacing
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+
+Column: diagnostics_Image-original_Size
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+
+Column: diagnostics_Mask-original_Hash
+315bdd7a06bb73df17bfc1297398b4398e36e180
+208a2b034b72592489315104ef526ca10d434f24
+352220437f6381b051fd4173969519887b530df6
+9f62584e8badeb5de90b797d0c86c5170465d90f
+62ab23b0a4ea4c9e7574b1ea410bd90236fe1d6e
+27f1efa8b4ece6139512d6c5a6ad20182a4961d7
+7e291b595cf3f1412331ee25f91cbf09dbf82fe4
+fec9c0e51763ecb78dab8e288ff7a5e61877f3a1
+d627d40f95d7da3aeaed075adadf134d9fb1f345
+39ff26fc8eb688a383ca44e14acecbb8c26f4959
+dc306f6b9c426d8f79974c8a7fdb47f8622d5474
+de8bb77271fdd87b18129792243572b51c8c9d74
+56fa3448da6db290f88f3c230cf6c285d6679882
+05b957c8ca435b60f1a3896729b66227b6caed2b
+0e73cbfe46202df2b126be50094581b13c8436eb
+b8eef0cec27b136536162b06270037f8f3f36347
+c4d4d4946880e52645b968c21987ffb52bcce712
+29bfce6d2def045b0982e5559beb273ff9903740
+db987c78b1ba1575e05d12d8b33ce4c4b1c159f9
+e7a43294c0fb494a6d8f9e57872c74d8dcee2cc2
+ff17bd02d89d29a04755ae3e8ad1bab653f17558
+717d5bcaa207ee1566727f8e42236897647a44ea
+ac5359346dbd036dc4a5dc22f52256c89e17c467
+4630bb8542e1a878cbe5d269f844bdb3640dca8a
+43e7620aac300bee620d71cc41890612d3a607c7
+f51e339289f79eebf956ef7fd62f28fd6159660a
+25b6cda3dd673b87eab24b766de8f513758e359d
+b5dfdd800685ce577872f9ae78f58e034e823d58
+2250752bb63323e7f17791a54e34d9aa73fe5c9d
+cd6660592cb306d588a04ce5d8da3b1cafa3bdbe
+d2d54fb73ee907e025f669a6eaa6988056abf5b6
+a3935ad0ae7e2a60f35cbd07f4f44360840c741b
+9b042e4c183c9530a2678ab66380ff91621c6ff0
+4417190de92864ad2a112024d62cae5b09e36732
+e76b12899b7c857e99d2133570f8f7c56cbe1de9
+8f9102bab6beb04c887e0225dd86f14f3ed352a4
+bfd1e5ea32d2e4cf6fad49a460c9f5052f01c2a7
+9ac32f8637b6744f6d368b83fa793570227ab110
+8e13151bab166dcc94f0f764d2557b667e75aee0
+91ebd394c9ba20b0930f324e38c1013bacd0b198
+ebbda80b36c7f1a822eb53e0d91ec44fd59219bb
+636ecf6b8f192b736de1fa535734e0328fda6275
+c2c57ce860a04ffa13ea2887e5011e10fc8c2f7f
+34718908bc29ca87f6e72431813faf68346906fc
+892f7f66ee7b1ca52ae00b56a1f08d7b9d874ae8
+e24ff53dd782a00f24ae88dd7fc05b1e559e2777
+ce0377a7dbe38dd20e9d449d1d63180f3731d1aa
+63f2fa7d959d19520457aef815be726382caa730
+41a74d543e7104884d8a65d432cad6d1574721a3
+955911c3a80bc19310f649de1eb8680a79f4860b
+928095961ad4cc77a821e75084a5652ecc4bb64e
+9149024f7a72b8192ef19b1990b0877d89144c09
+67bc102bc71073ed872670fbf68f7b2cafc566dd
+a8b455178211d4a6ef19f9401b32bad6c4aafdb9
+f0caabda6214920db425699370f02bd3dba645cb
+bc1cafaca56f0987eadc25391f009b9a336c11e6
+a3d90671c8484ad3da5c95862bde935d4a3f223e
+2f978a28b3d569adbce723c60c7065d4aa2ceddc
+752215d1bee2078d8f74bfe7b05918531a1308c0
+5ffdbe8a284787dabc62d4f566fcc00bfe7cb323
+b9a204c0e49fe0cb1c728a9c22fc6a17bf31d398
+9da16a2fd535a3dd494590564d4d5ef9aa79d91b
+2281c27ab27d6bd202325f6a198df7173a07b2ed
+711269c736d2867edc864b209d57a048109e15ab
+d3e5407966a938a9aadde6dbc7851e977bbb3ab3
+650b6404386b65c75c4d465cf4336693393397ee
+0ab76d659240d70b1ff3f21d174b731cc85f3e0a
+6b4da3ac1b19701c5cfaaf6aa52b5d26e04b3544
+562da1e36d7a1dcb0d6887f5619dc29bd29b3a7b
+ea43efb8e9c1e0995c9d1776a7b5c890317956f0
+96ebf1c98b5c9341ee78dffe214c935cc89ca0b1
+24742f58424debf58bbd13c7e328be2572619de3
+f7ec108e7b8124fe2214a02952e00b8b6bf2a18b
+9bc5ded8504053e0f171650b20bcd3b3ed72e13d
+7ec158ce56289b7f3e19bc764e219ee1d1de8b1b
+ea30053d5e0a11ff195bf50da426b89de70b064b
+d00ef7ab3284ef409ce621317775f24dce01dc62
+070f3bbc4ea257a6d39bebf07aa7cf9c507447ed
+a237a8defe7c5df46247dfceacfbd0f019af2ccb
+09dd8b144f2e5fdf8cb5a1777af36f4b77b59d4d
+42205fc3fce1a6aa532e25022a8c4379638ccb23
+290c49f91308be0ca886650fe735ed5ee9cd7909
+330d40e46745e98eb2a086c412e6dec41d924f0f
+bbe89560cfa649c7c92d56737fada60298c288ec
+4e4377085a044aed90db25d33e852fd56f0f5cbf
+dd7aa66ac4c8a9c440a856ad0bece34ce7354767
+14fd1e040b86e69ab7120e71cfb32015fcf619f1
+a48069c47d7dd0c984c59757b85ef16d749eb6bb
+2508203ee920e0c8974a6a80d8eff8265d257f9a
+10680195f93f002807c1a959b3cd33bdb756ea76
+fa0537aec3ae6334a6c2d79960043caa1c7af5ba
+10e40b08b40dc332f068f988baea624614b8ac6c
+4e422825921726b066412e0a90a08a12c555ca26
+237844d194889a8064f1a5488ab9d9ea0b796d20
+9ea7d322d977389de91537a8e93e49209813eff7
+af0e76759bce1ef70b34ecfdfe1979ff6159e22d
+073ae1c950941a8b9b7af9b7d274168a969402ba
+362eba0384c143d6fec87349449b1402f4f0b708
+ec2632fea4ef6b0ee03b67bf8c763ea56d455db0
+54f0d47966660ca3fe756d9ccd5da9eed2b25d36
+e8c85e04207f47bbfc8bb5032955e659689e5812
+dc5de99c8fa84af7dc0f70bd5b32317816b8dc47
+d8b4eb32f2beef737fa9c00a7df15b45c318853f
+f5545c16282dde4e2ac9539506318d29c211ad5a
+3c30495f653b479ed47bcecf630be763ca44a4bd
+d2af9c2f37f9c8a67bd8b12ede438cded4c30607
+62146836f990a6b02e2fd72f1fc404218ce6ad57
+be35ae5a32c2ceffaa2ee7126df26fa5d14a7a08
+529fa001ea97ec70b07c2605c9adaba3fb9640b6
+8fb77d9ba981eae17134380e7439b1aae646ccb2
+d242ad41e7225161e715575bc4332c66a53e991d
+8ec3186ae52fd9d03422ad3d64dcaa446fcf86aa
+2058b08f477e7903fd47c85bb726ad4ce42bf8a9
+e32fee9f887867dede6a93a3a49f93e58fa80331
+85f348bc59792e0cd9886da02122396b2c459b05
+ab735bbeef8c3e275ee0018518fd9da2af6ea8c7
+ee65e292a97af1fd6fc60001e5ae88f63078f5fa
+a0f24f99ac8caed9c7ab7e440370feebb15abf8d
+d5f204a53fd49d2094b701bace9c5df49e851374
+11b31aaac3285193b7587f1b5b80a8211d5941a9
+629897646a8ade51d85a0a3296a46f8473158ce9
+aedec21529cc28fe6a2f42cc7027a9b0203bab39
+7d162a2c3684454d4a3558232b548a6fc0e91a57
+dc1bc8f51b1f11c4e09dbad76c1c75d36aae1b0d
+fbc5a7a68a05ede38a7ec07bfdc9dc42683b7f77
+d38f7ceb323afacdf799f29f070d2e3a1c3e7a26
+028d0e5db9b81fb44d0e58f3ab8ebac45888eba5
+39aebf794dd9dbbba80ed9fbc316610d40dfd730
+5938114d50a05170499e74436513e70a55c33970
+a8dc8dfa8b50060e6a38978d5fbd72cb1e591a1a
+c381c571ce3e38fae818566d8f59e639e94cdaf8
+54f46741f6da22ac74f8d8de6763780345df4ca6
+0e471dfc63bb9eca942d4f4faa9d5303c7afaa60
+3f8f8d580bc076d79d320bb91a3e1186e0023c52
+35424c4ee5e8d816f57dfca23a590a55267d46aa
+e5f3d4935d16c968d3875c6707be89410552fe8c
+9a352873dde9010abcf377c6c5d6dbbc09405950
+ea76f29b3d7ea45dca59281db5974988db54d18a
+f85d327afbc0e21cc2ee3441433a83eace6b6492
+d17f5b5c352197ee798a4e9dd4c30be36f9ae747
+0e50230e003e03035a46285912cc991b3c518e7d
+4d006bc7548af8c9f93a736d90d22eb0668ceb2f
+d62f738021b5ae2514a68fe5b1066190a065aafe
+fd3d7eca4b762406d03d3dcd336aec45f6ed94d3
+4f1f78447e446440097aaca523b916d7fb69e61c
+acceb013c4666ed5626f72c00ec60c20aa5e7d03
+8bacc9e980206e6c901036039603e71e2856d790
+5891518926aa7875ef2416a1389bc612a03812d8
+981cfeff09c4214a70f185bd79fbcfbbf05eefe1
+010b589212f7c3c588f6624a1d14f1c0a04e5170
+51e88678bf179d8674191492cd3739c3ac9ec25d
+0aa14f39ba0baec8de6964bd0477622d2dc69cb4
+e616b0418d6033522b5856cead948fd80ea41ed7
+bab20193a3dcd5d137336e335a9642c3d22cdae1
+7328d0a4c9ed82bc9c0e5476ce107ccc0460adbd
+33a311fe8863ebd5c0c88bde45cfd779ec84920c
+dd5be7aeeb336cf0292d93ab070b34429336b027
+f6bfe265dafb0ac79338885ccc01604f6cc20539
+2416f3129dcb4acc4e3531e03a96ce1a98e28493
+42eb3e58c48dbd7cab1e7cc1e0730ad2915f798a
+962373b5179be6f8fadff716748e5e664623c477
+2648520c429806f21eb5d584611444c8d8ec32e1
+40a5851e51bda9d94d7e6c3182e7d4ac52f4d758
+c9ddf60be61f993c10a12482567398429111346d
+b1d3b41d0a047a13afef34875e883e559739e099
+0b53414f2ceb9c076c56079d8168ce055c71fd24
+a8863985d4ab29f58a28eca21a1e164d9bbbdde6
+cf2dedcbad2b6d20d1dce53374f4406c7316ed4d
+ab8275b4a6b3fc59e5c6fdfeb83c5b548a4956af
+5c0cda5825a88a9080935110ce37c7cb3e24c462
+4b0b81bc094fd6a075f668a6c6a9e3ef992a7294
+b352b2a870fc2a88d837414da75c0afd788e564d
+037ee5c1d27d81adb5d4c782587bff139c9c549e
+b44db12bf8e21394d59007a2ac8d4bf09257fdf2
+73369c13594865848c3cba34e7e628b712438e75
+c41a424611169e36e8132cb2aba3108601e1d3b6
+81f6f5284951ae70aff3be52920dfe11316a682d
+e3e47c39b2b9e7b6e42e1ac8a529960c75348784
+c046e733e0faddfa601ea6f06cdb43c9db217f10
+2b30fdf54808ccdab09ffb52210a870290d79d75
+24680a23d0d45befacce40e455a162d2f1f86475
+24c641912add1212b1fb0e13972b3a12d9ed1e98
+8771a1e04031aec5725a0e8b2e67238681ccc76a
+3a3ff5f559b5dbeadc16c465c71f384664acdc74
+34c42a77c529e58774539adfa62d6a34cf7cb940
+f777a2cdbcf8aa12faf2d0ff5780b63892a8d446
+f11dcbac73cbbbb985f8ad661bd75ecf0a63e925
+e7c737d9d8befafe1a2c5a6b481f23532af8d6a1
+79b5290bbe78cfad5bab702666ee77431fcc08a5
+f5f4752b1b8ad79fa293a3b3f74427a60641b859
+74a9b8cee7f5f11b2af00e55aa459d696d5ff238
+b5e28a80696e617ae485cbf0074178090e4681a8
+eeed1e5f531375b052f49a76058b7523ffbd7cdb
+564b110df447b438922453b4c4a09c67ec393be3
+3bfc92e906680050ea3b05a08e21dcc3285650f9
+16c2adc433dd61d38f68f93e2e611bff282ed6ed
+ca04a1e490c4e8e04a07fc7254a03d539f16d124
+216bffc3406b0e50d75688dc0e50f15dc64aa337
+baec638339296d00919f8cbb8f4037cbd7851117
+292eadf3bf0ca67d369297823efd4dba33731d15
+fda6ac19f2a1b3a3b5faa476cc6cd6c48dcde9af
+0abb4ce1fdb6e87315eb84e5327f777ade39ed82
+d33a1a4b920d219a0d58dc62f7227171c69ad849
+f15510e8dbf2ac0f559ffccb96ab6434c2e01c31
+82080b565172bc8581aff26b24987e8130c86aad
+d66898c77995971a8ed41fe01daa2e32f83e9872
+c53e7a0bdc206638a90d44797bc3ed2c07383a05
+175b01eed30f91a165d14b2ebdc89d9c1a2dc159
+6e43e64ef34f36a4e23c6c28a4d82e4d176c1a9b
+c64d124541cacf7c7051872cc935c67edd080615
+cf332bc05ededb87f22b284bd8a5dec07c19e3aa
+3ed664b97281ce703658c8cd0a298345e93bf350
+d8a8aae0dbbc9abac728adebefc5574faf44f612
+9d35eadc301a54e5e81488f57b6bd28edaa0483a
+f3ebd58f537aef189c620e16995e6c1ef5d37eff
+dfe64ca21bb57fc65580a1453697b8cfc11ed1b7
+256c8881fa854ff2104004e4d41500a4be16358e
+80b9e22389799cd5c85ac06312da492637da2450
+b47f49601672cd4f3a7c5bb1600b214c37cd9a59
+060a3ad3531caae39e4be2f8f873ed8d500dd8dc
+5e4d42fb804071c88dba1e2c997beae00107702e
+7d26f166b2ec3df6c22149404e20f36cb3308d3f
+834067290eb16effd1678dd8307414238520b636
+6efe93a6cc7cb4cdadba7fd95f6130c96f927a7b
+6003e9d776fb538fb6d5fbf1c6882fdf0bbc3d9c
+4c87abd88b5759e93bf5f0eef21c00a63e6842b7
+b2fcae7e83870b034c82a9fcb159ec041bce7a6a
+c5ef60baa9c9d1e693bd2f59a4b0c33e9a82f139
+e7643487e96e4783c4255b092a4416f9e37335b0
+5b372677dd71b591b362d4d5aa9bf49d052870ef
+cc5ca8c0f3a691007fe86fced02d03333e65ad8b
+56caf7c0dc984c0fe27dd447f3a12e909449da62
+9579c1689bbf72ec7d581153390525710d8a3046
+0926dae38ec403af599e78c179f4a558e23aca31
+f6b005a0cda79fd629f62bc77d6361e4dda69923
+f4629284f726f5cdab1cdd0a229a5d28e81432b3
+ecc3b58a5969d324d15ae132b7d93c98e3558699
+b0e755035c52f1df0fd8fe161ad0b4c8d5c8edf8
+6d9bfdf9a7a6db0fc0b6ade4b6dbd188a10bdfa2
+3da0765d8d866e50a178a210e3c61898e0792de5
+a3821b4abd6487ad3476c5114176cbfde9e0a52e
+969003b817845ad5e7fa7221d487e7d0439248d7
+caac6c4296771614e7f620b5420d47c410eba498
+63eafd1e68d43874990b061cc7b56056301fca8d
+e1cb71f7102f1d8851c89be937e3036874f90e57
+8fe1ab9bf5b6c9e4254aa8e2fdab4a286aeddf46
+69a5f45a100f68e81de328c6c7823c9121ddb941
+bb4a6df159273733d74ababc529db25ca33cb8d8
+142a84e62e6081dc3dd778ef736dce4339358934
+b9ee0a760c5019a4feaed93b1d3a64c68210ad4d
+879f2f7f53f0a162f85334dfd79d40aa19be9647
+6d454f8e768e0cb18bab192d1dfc9f8aca9921de
+7cef76169d1836f3b459d59f1b81915bb098a743
+0ba35b5b39f310c0dc6233657733af44f1b76386
+30d156a8dc292b06105905892676a0b7dede35c8
+002c9c73af79731d4859bdcaff12f176b378382d
+d03a9456da1a6732b6eccd6a8369f4a00ad5b7e5
+ee35aee65019338897cfdab89aaef6cfa71ed216
+44458d69355f8af2afb45704a018ff3c5ba6a30f
+36c102e16b7392b7bf9a3e42bd79bbbe626c81c2
+bb104ab11fc726376ba6b7b5125b795c6697330a
+74ee6e8b719299903005fc79f6e84858a3c801d5
+dd6e98f360c7984e1445f71f156c12d2a5c9e170
+d5f24ecae5a0c850e872ec29401f82c09fb717eb
+1c15e96d37396549a60c8e813eaffef93315f0e6
+4e7f854a4ff2b173c28810a951a2e412f72b4c9f
+f0e16367c79464b61eeae940e72ff3580f112d6d
+33a404c86d60c163eff99e3d158d789853a41ac0
+b6a44c7af4a234ac8b96b4af379870060675e4ee
+02321592a99fe940f9fef6eec23044013daf0c9d
+d3a5bc49951df716964b1f552dcbd99fe28b8d4c
+2d81333a29d613c07cf15f94ebc058e606a5336a
+84ac82a6c68f55cf45400a5c740adb27860afd90
+b8e00925ae710ae0a4bf99061ee4dfe4a50216e9
+0fb9c6abcc9d073f8210cbc34cd983edd74b29bb
+1a89a9c7c41dae143b86c1e3f27c1658ae8ebfa9
+e54703a834cab309681a5fef94d60756cf0b54f9
+89573c53a6dd9069f3cfd7c1f137bfb774067bce
+2de46f83fd369d616073333c9718d45992f38047
+266dba0c2c9fa8cdad2545bfc89c733df826d6c8
+370f89e35042b0dcceb6698718c959587b5bc68d
+7c526dfd2dc82240cf42b984a8beeec1bff4122c
+8588138b057f8e475fee34f0ff0c3dae97049c69
+cba880feea06f79bfc22b22042deb8a9bf8bf605
+bc74fe5ba3d129da8d6d5dd5dfa6cb0d14cf1e7f
+56854833d6d90bba859e40d6de271c2cee0d9df4
+a92ce56e79ff44a3231e2c99f35848bec7ac3b4c
+d74e0c196f9a69f2bb3b454989b7262a8e6922f8
+2ebde03281ed5a1ff8a3c8a15d6787ae28abee3e
+19f7238c5070cb34ae29259653edb3c24c6bfb26
+9f4b19c2046912bbc4d01f677f0e2156b5ea9a4b
+83b5411ffc672bacd96b48ac889f4d2285fab3c1
+61712d72de46c2d5e937cd4251784f7b5f04aa1b
+903bdb02262704d842f5ff4104cc36c014074e3a
+10ec3a30f645b15c188579d7119af87682de2978
+34f1bad53249799319de01ec3d9b998953492a30
+01c03797279e49ade71d066c3637a0d9bbe1c667
+37518ac9ccea84e600bfc8f1318261f1d6ce7a92
+1642863719277a6e89fb187c5db14ecf35ba9217
+77748134f39e409726458c52ca33ee69deaa7a34
+3e1a290c9321e62e65b601c5a65e9869a39f65fb
+c44d678a3f9a861c2db2f543840fc635de465000
+9009b5a8b6b353bd243d9dc397c419102417cbde
+35b753aa0bf5eabdf4dfd880b612de8369451e00
+2e376675a57f5a8278a400eae41e6b749a4c2925
+
+Column: diagnostics_Mask-original_Spacing
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+(1.0, 1.0, 1.0)
+
+Column: diagnostics_Mask-original_Size
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+(256, 256, 256)
+
+Column: diagnostics_Mask-original_BoundingBox
+(103, 113, 93, 36, 30, 71)
+ (81, 127, 93, 47, 16, 73)
+ (77, 119, 89, 49, 30, 81)
+ (93, 102, 90, 41, 29, 78)
+ (87, 119, 91, 40, 27, 75)
+  (98, 97, 95, 31, 32, 67)
+ (87, 118, 93, 48, 29, 83)
+ (93, 151, 87, 45, 16, 77)
+(106, 125, 90, 45, 24, 81)
+ (89, 119, 88, 46, 25, 80)
+ (92, 126, 89, 39, 24, 78)
+(101, 132, 92, 41, 22, 73)
+(100, 130, 94, 40, 19, 76)
+ (97, 122, 92, 46, 22, 71)
+ (82, 113, 91, 42, 20, 76)
+ (95, 134, 92, 42, 20, 71)
+(107, 118, 92, 36, 29, 74)
+(100, 120, 91, 35, 28, 73)
+ (86, 135, 92, 46, 20, 72)
+ (92, 108, 91, 40, 25, 79)
+ (83, 153, 94, 43, 15, 67)
+  (90, 96, 93, 38, 32, 77)
+(110, 117, 94, 41, 25, 67)
+ (86, 106, 90, 39, 23, 73)
+ (89, 127, 91, 40, 17, 78)
+(101, 128, 92, 41, 29, 73)
+ (94, 142, 86, 49, 20, 86)
+ (87, 115, 90, 42, 23, 75)
+ (84, 121, 91, 48, 18, 78)
+(105, 117, 91, 43, 23, 72)
+ (89, 102, 90, 42, 20, 83)
+ (92, 125, 89, 43, 28, 79)
+ (107, 99, 95, 37, 31, 72)
+ (93, 114, 88, 50, 27, 76)
+ (86, 114, 98, 41, 24, 69)
+(108, 116, 90, 42, 24, 72)
+ (101, 97, 92, 39, 31, 70)
+ (89, 133, 91, 43, 21, 74)
+ (82, 116, 88, 43, 33, 79)
+ (87, 127, 89, 45, 19, 78)
+ (94, 124, 90, 44, 18, 77)
+(107, 127, 97, 37, 30, 71)
+ (94, 134, 93, 47, 20, 72)
+ (89, 135, 93, 45, 20, 71)
+ (86, 132, 88, 41, 18, 82)
+ (91, 112, 89, 42, 26, 77)
+ (89, 102, 88, 39, 32, 78)
+ (80, 124, 89, 49, 22, 82)
+ (85, 113, 89, 40, 24, 76)
+ (97, 118, 90, 37, 28, 78)
+ (87, 136, 97, 40, 25, 69)
+(100, 129, 93, 44, 27, 71)
+ (89, 113, 91, 39, 26, 77)
+ (105, 99, 86, 36, 31, 78)
+ (88, 108, 94, 43, 29, 73)
+(104, 126, 89, 45, 24, 78)
+ (85, 131, 90, 42, 19, 77)
+ (89, 113, 91, 46, 23, 76)
+ (83, 121, 91, 42, 19, 78)
+ (95, 125, 92, 42, 18, 68)
+ (94, 145, 86, 44, 15, 81)
+ (81, 136, 91, 46, 19, 78)
+ (80, 107, 93, 42, 27, 74)
+ (82, 111, 94, 40, 20, 73)
+ (88, 136, 92, 43, 24, 74)
+ (93, 114, 97, 40, 27, 76)
+ (97, 144, 89, 45, 19, 78)
+ (85, 118, 91, 43, 31, 77)
+ (83, 101, 88, 43, 25, 81)
+(101, 142, 92, 44, 24, 75)
+ (92, 125, 92, 40, 24, 71)
+(103, 131, 86, 38, 30, 79)
+(104, 121, 87, 41, 27, 78)
+ (95, 129, 94, 44, 19, 71)
+(102, 122, 94, 42, 23, 69)
+ (84, 159, 91, 41, 13, 73)
+(111, 104, 95, 37, 29, 72)
+(101, 117, 92, 36, 30, 76)
+ (94, 125, 92, 45, 24, 74)
+ (81, 139, 94, 45, 24, 70)
+(104, 106, 89, 39, 28, 78)
+ (86, 115, 91, 49, 17, 79)
+(100, 127, 91, 46, 22, 77)
+ (98, 140, 92, 47, 23, 76)
+ (91, 129, 95, 41, 21, 73)
+ (89, 130, 90, 39, 24, 76)
+ (91, 129, 91, 43, 19, 71)
+ (85, 129, 97, 44, 20, 74)
+ (86, 121, 91, 43, 24, 75)
+ (98, 109, 91, 38, 24, 75)
+ (91, 124, 92, 41, 30, 71)
+ (96, 106, 92, 37, 34, 76)
+(105, 130, 95, 36, 33, 67)
+ (83, 130, 90, 46, 18, 75)
+ (87, 119, 91, 45, 24, 75)
+(102, 116, 95, 40, 22, 70)
+ (84, 108, 91, 46, 19, 77)
+ (93, 141, 92, 45, 23, 78)
+ (86, 120, 90, 40, 20, 76)
+ (94, 109, 90, 43, 25, 68)
+ (87, 108, 92, 41, 25, 76)
+ (92, 129, 94, 40, 20, 71)
+(112, 119, 93, 36, 30, 69)
+ (97, 132, 88, 44, 26, 82)
+(102, 132, 93, 43, 23, 70)
+ (89, 125, 91, 45, 20, 74)
+ (90, 121, 93, 38, 27, 71)
+ (89, 117, 93, 39, 26, 71)
+ (99, 123, 90, 44, 19, 78)
+ (87, 114, 90, 42, 28, 78)
+ (92, 135, 89, 41, 25, 76)
+ (82, 129, 91, 42, 26, 77)
+(101, 123, 86, 44, 25, 74)
+ (89, 117, 92, 46, 16, 74)
+ (86, 120, 94, 42, 26, 75)
+ (88, 121, 89, 44, 17, 79)
+ (79, 118, 87, 41, 21, 79)
+ (91, 114, 90, 48, 26, 76)
+(103, 120, 90, 37, 21, 72)
+ (97, 133, 94, 42, 20, 76)
+ (92, 138, 94, 43, 24, 71)
+ (87, 134, 90, 44, 25, 78)
+ (88, 119, 97, 41, 28, 65)
+ (95, 117, 93, 38, 34, 73)
+ (98, 126, 96, 37, 23, 68)
+ (81, 128, 93, 46, 19, 81)
+ (97, 116, 93, 46, 19, 68)
+ (96, 120, 93, 43, 21, 79)
+ (87, 147, 91, 44, 18, 77)
+ (98, 141, 91, 43, 20, 79)
+ (90, 115, 94, 40, 22, 75)
+(103, 133, 92, 40, 29, 80)
+ (88, 131, 85, 43, 22, 79)
+  (98, 99, 92, 36, 34, 69)
+ (92, 123, 92, 41, 25, 78)
+ (99, 111, 87, 35, 35, 82)
+ (87, 139, 92, 44, 14, 74)
+ (80, 142, 85, 46, 18, 79)
+ (94, 116, 89, 44, 29, 73)
+ (82, 124, 92, 40, 19, 73)
+ (89, 119, 90, 40, 23, 73)
+(104, 114, 88, 41, 32, 83)
+(101, 117, 89, 39, 31, 76)
+ (89, 129, 92, 44, 20, 77)
+ (83, 105, 96, 46, 22, 77)
+ (89, 123, 93, 35, 20, 72)
+ (88, 130, 91, 44, 21, 79)
+ (89, 131, 92, 45, 25, 78)
+ (95, 124, 85, 42, 24, 76)
+ (98, 123, 89, 37, 26, 78)
+(104, 124, 90, 37, 24, 75)
+ (99, 114, 93, 40, 32, 74)
+(104, 103, 94, 34, 28, 73)
+ (93, 114, 88, 48, 27, 80)
+ (87, 128, 88, 43, 17, 80)
+(107, 106, 96, 45, 30, 73)
+(101, 125, 90, 46, 22, 76)
+ (90, 127, 96, 40, 25, 69)
+ (93, 123, 87, 45, 29, 84)
+ (95, 117, 90, 42, 29, 77)
+(108, 118, 89, 38, 33, 77)
+ (89, 119, 88, 40, 29, 78)
+ (82, 131, 86, 47, 21, 83)
+ (80, 133, 92, 42, 29, 72)
+ (91, 132, 89, 47, 20, 74)
+ (94, 133, 96, 43, 22, 70)
+ (81, 143, 95, 49, 15, 75)
+ (91, 107, 87, 39, 28, 83)
+ (83, 130, 86, 43, 22, 79)
+ (99, 120, 95, 43, 28, 68)
+ (84, 107, 90, 45, 22, 77)
+ (85, 120, 92, 44, 17, 71)
+ (92, 126, 90, 44, 18, 74)
+ (96, 131, 93, 45, 17, 72)
+ (93, 122, 95, 37, 23, 70)
+ (90, 122, 94, 43, 20, 73)
+ (86, 134, 88, 44, 21, 80)
+ (89, 118, 92, 49, 23, 75)
+ (84, 127, 90, 39, 20, 77)
+ (80, 133, 93, 43, 19, 72)
+ (95, 118, 85, 42, 15, 89)
+ (85, 125, 88, 44, 21, 74)
+ (93, 118, 91, 37, 28, 72)
+ (90, 126, 91, 43, 26, 74)
+ (97, 124, 92, 44, 23, 73)
+ (89, 105, 93, 41, 26, 71)
+ (96, 128, 86, 46, 21, 79)
+ (99, 109, 87, 39, 31, 79)
+ (96, 123, 90, 37, 19, 76)
+ (93, 127, 92, 42, 27, 74)
+ (96, 113, 89, 38, 26, 79)
+(101, 118, 95, 35, 21, 67)
+ (93, 127, 93, 48, 27, 72)
+ (91, 121, 88, 42, 28, 77)
+ (88, 126, 86, 43, 24, 83)
+ (96, 103, 93, 41, 21, 70)
+ (93, 124, 91, 37, 27, 74)
+ (98, 117, 88, 43, 16, 79)
+ (85, 128, 93, 41, 22, 71)
+ (82, 124, 93, 39, 24, 72)
+ (85, 118, 86, 41, 25, 83)
+ (92, 126, 92, 41, 28, 73)
+ (90, 114, 93, 42, 29, 76)
+ (91, 123, 91, 41, 24, 76)
+ (85, 106, 93, 37, 30, 71)
+ (77, 144, 92, 43, 22, 76)
+ (86, 119, 97, 44, 18, 68)
+ (89, 109, 91, 37, 32, 76)
+ (88, 127, 94, 43, 21, 70)
+ (88, 122, 88, 43, 28, 72)
+ (93, 111, 91, 46, 21, 78)
+ (91, 109, 92, 41, 23, 70)
+ (91, 106, 87, 45, 29, 80)
+ (82, 129, 88, 45, 22, 76)
+ (87, 120, 90, 39, 23, 73)
+ (84, 122, 89, 44, 21, 79)
+ (90, 121, 94, 37, 23, 73)
+ (84, 112, 89, 47, 19, 77)
+ (81, 116, 87, 44, 21, 84)
+ (92, 122, 91, 44, 24, 73)
+ (91, 121, 96, 41, 26, 67)
+(100, 117, 87, 35, 20, 80)
+ (89, 124, 89, 44, 16, 75)
+ (83, 137, 93, 40, 19, 76)
+ (89, 124, 90, 40, 31, 77)
+ (85, 116, 92, 42, 23, 75)
+ (94, 132, 96, 45, 16, 69)
+ (90, 113, 91, 42, 29, 76)
+  (86, 98, 90, 45, 26, 77)
+ (99, 112, 93, 34, 30, 70)
+ (82, 133, 94, 39, 20, 71)
+(100, 131, 88, 34, 28, 78)
+ (95, 125, 90, 45, 23, 78)
+ (88, 129, 90, 48, 22, 76)
+(108, 122, 88, 41, 18, 78)
+ (89, 120, 89, 42, 25, 74)
+ (82, 144, 94, 42, 24, 72)
+ (94, 110, 92, 38, 21, 73)
+ (99, 124, 93, 38, 25, 69)
+ (83, 149, 90, 45, 19, 75)
+ (98, 118, 93, 44, 21, 78)
+ (88, 136, 92, 48, 20, 68)
+ (93, 117, 91, 42, 22, 71)
+ (75, 116, 93, 49, 17, 74)
+ (97, 124, 90, 39, 24, 76)
+ (98, 104, 87, 36, 38, 80)
+(100, 121, 85, 35, 36, 75)
+ (96, 120, 93, 43, 18, 78)
+ (92, 114, 88, 40, 26, 74)
+ (88, 115, 93, 40, 26, 71)
+  (86, 99, 88, 41, 31, 78)
+(104, 117, 93, 40, 27, 72)
+ (93, 130, 86, 46, 25, 77)
+ (73, 124, 91, 45, 23, 74)
+ (87, 126, 90, 42, 17, 75)
+ (95, 121, 94, 42, 25, 70)
+ (88, 120, 92, 42, 19, 68)
+(102, 107, 93, 36, 31, 73)
+ (85, 116, 86, 42, 26, 78)
+ (79, 124, 94, 48, 19, 78)
+ (88, 120, 88, 43, 25, 81)
+ (81, 103, 91, 42, 32, 76)
+ (97, 117, 86, 44, 28, 82)
+ (93, 132, 94, 41, 26, 73)
+ (83, 131, 90, 42, 22, 73)
+ (85, 128, 86, 42, 24, 79)
+ (80, 130, 94, 41, 22, 75)
+ (99, 136, 92, 42, 26, 73)
+ (99, 129, 91, 44, 20, 74)
+ (90, 140, 91, 41, 18, 76)
+ (84, 111, 92, 41, 23, 77)
+(103, 119, 93, 33, 28, 69)
+ (83, 121, 93, 46, 21, 71)
+(102, 120, 91, 36, 30, 71)
+(100, 123, 93, 42, 18, 73)
+ (94, 114, 88, 48, 28, 84)
+ (89, 120, 93, 44, 18, 71)
+ (90, 119, 94, 39, 29, 70)
+ (89, 133, 96, 41, 21, 70)
+ (96, 116, 94, 39, 25, 71)
+ (90, 110, 95, 42, 17, 66)
+ (92, 125, 92, 42, 29, 78)
+ (84, 121, 87, 39, 27, 77)
+ (94, 113, 93, 43, 22, 78)
+ (91, 115, 85, 38, 26, 84)
+ (83, 120, 92, 45, 20, 71)
+ (97, 117, 91, 39, 25, 75)
+ (88, 129, 91, 42, 24, 73)
+ (86, 131, 99, 43, 20, 70)
+ (96, 115, 92, 42, 21, 72)
+ (87, 136, 88, 49, 22, 80)
+(102, 122, 88, 47, 28, 79)
+ (93, 122, 96, 39, 27, 69)
+ (91, 120, 92, 43, 21, 77)
+ (85, 130, 89, 45, 21, 71)
+(103, 119, 89, 39, 21, 77)
+(109, 118, 92, 38, 31, 74)
+ (91, 120, 94, 42, 25, 71)
+ (92, 124, 95, 45, 21, 72)
+(100, 121, 93, 43, 29, 77)
+ (88, 118, 89, 41, 25, 78)
+(103, 103, 93, 38, 27, 70)
+ (80, 131, 89, 48, 17, 82)
+ (93, 103, 91, 40, 31, 75)
+ (95, 126, 93, 40, 22, 74)
+
+Column: diagnostics_Mask-original_CenterOfMassIndex
+(121.94230227976358, 129.27272727272728, 128.40...
+(107.06170458927883, 135.28088443244633, 128.27...
+(103.3640972118682, 135.28164604144922, 128.986...
+(116.29827315541601, 118.67431469629271, 129.30...
+(108.26561977948546, 132.05462746408287, 127.67...
+(112.91043256997456, 112.95776081424937, 127.90...
+(113.76249134948097, 133.83778546712801, 132.16...
+(117.59915661239312, 159.33840927726368, 124.56...
+(130.86013052506675, 137.42895283298725, 130.53...
+(113.85841150719199, 133.05228267667292, 125.29...
+(112.70377760042564, 139.3269486565576, 126.716...
+(122.26233968130587, 144.00466381655656, 129.18...
+(121.58388037928519, 141.02862873814735, 130.00...
+(122.21409214092141, 134.60007742934573, 127.15...
+(105.80310965630115, 123.13142389525368, 126.82...
+(116.84718498659518, 144.78194816800715, 127.44...
+(124.82732390080633, 134.15609310816978, 126.18...
+(119.0232661529342, 133.60936573799646, 126.922...
+(111.49203903441192, 145.24413627803457, 125.88...
+(114.55286276885792, 122.25583156619206, 130.61...
+(105.78881501759875, 160.76691435275714, 127.26...
+(111.23893318669234, 113.88740720373934, 131.95...
+(131.16218590757336, 131.00456861711476, 126.06...
+(107.94793435200906, 118.63992642897567, 125.35...
+(111.56792994937749, 135.8070871528253, 128.996...
+(123.30931276620237, 142.36917232646482, 127.13...
+(120.59743146455915, 153.31649790071623, 128.49...
+(108.56701324597636, 127.35522005412335, 127.39...
+(109.13708118556701, 130.57184278350516, 131.19...
+(128.66275192112514, 129.47745396549223, 126.27...
+(112.30596369922213, 113.59427089764168, 131.31...
+(114.35545826860613, 140.50077672645108, 125.03...
+(126.0434208042288, 115.2744949971682, 130.0353...
+(120.19064791441279, 130.2579636975598, 125.258...
+(107.67738634702529, 125.88539687180237, 132.10...
+(129.04319852941177, 128.853125, 125.0693014705...
+(120.57749961366095, 114.5424200278164, 126.738...
+(112.3488762593645, 144.78106432446396, 126.419...
+(104.98042038583357, 132.8234955369997, 125.287...
+(111.3784594864955, 137.581027009003, 127.09553...
+(118.10099337748345, 133.59243929359823, 128.68...
+(126.27735849056604, 143.3375786163522, 133.437...
+(120.14264753831105, 144.77306814476688, 125.11...
+(112.7464562326465, 145.95689025281308, 128.829...
+(107.87072614783459, 141.8196027352654, 128.702...
+(112.89352392065344, 125.44647024504084, 126.81...
+(108.27338696955356, 118.37829310616817, 120.85...
+(107.92701743558094, 136.32602993365222, 128.50...
+(106.66006884681583, 126.18918531267929, 126.26...
+(117.33632355177133, 133.55040291926412, 127.95...
+(108.89162640901772, 148.88132045088568, 129.46...
+(123.18210484824596, 142.31119432400473, 125.27...
+(111.95554280797361, 127.33500645346336, 129.16...
+(123.52574146614438, 117.05204252937885, 124.88...
+(111.97802197802197, 124.53499761108456, 131.22...
+(126.62345860246623, 138.28273634762184, 125.43...
+(108.16543924250395, 142.13335086796423, 129.56...
+(113.91043230649754, 125.36254206575201, 127.52...
+(105.86909683076537, 131.38293874483276, 128.54...
+(117.03775459513164, 134.35187945024012, 124.10...
+(118.18073055873744, 153.7776505027364, 125.810...
+(107.09383839626122, 145.63239453941705, 128.87...
+(102.61670235546039, 120.45289079229121, 128.24...
+(104.7754726451397, 121.27421783503429, 131.310...
+(112.08522578961107, 149.34220830070478, 129.07...
+(115.33302251232183, 129.84441188224324, 132.83...
+(121.44408866995074, 153.9740147783251, 127.857...
+(105.9689187217277, 135.2201955348023, 129.7234...
+(106.76700527195577, 114.14607175003215, 126.20...
+(123.31900289017341, 154.95393786127167, 126.93...
+(114.12283541026056, 137.7027027027027, 126.438...
+(123.45408614374132, 147.39749905267146, 125.22...
+(124.71419340943356, 134.08507430540598, 123.72...
+(117.26615581098339, 139.97931034482758, 133.98...
+(125.15562185929649, 135.18702889447235, 127.25...
+(106.8462096481683, 166.7867247007617, 128.3657...
+(129.45436262376236, 118.88598391089108, 133.31...
+(120.81986368062317, 132.63207678397552, 128.58...
+(116.88688128260593, 138.42130041990075, 128.63...
+(105.4481320880587, 151.50466977985323, 127.777...
+(125.50420757363254, 121.8225806451613, 127.782...
+(112.47507093635996, 124.86245102013241, 131.25...
+(124.48590504451039, 138.52299703264094, 129.83...
+(122.41574454631679, 153.12235219728106, 129.49...
+(111.70650289017341, 140.06040462427745, 131.74...
+(108.28950338600451, 142.31960120391273, 126.90...
+(113.08808973935994, 139.135103926097, 128.4076...
+(109.23386366576122, 139.18251196481697, 131.84...
+(109.26755194885037, 134.4286241239395, 128.210...
+(119.05990783410138, 122.0441760686477, 128.668...
+(111.68646513747531, 141.22284672641652, 127.14...
+(115.84716459197787, 123.31424619640387, 127.98...
+(123.27970882620563, 146.1879890809827, 125.913...
+(108.06712480058903, 139.4223831144926, 126.166...
+(112.45303784109754, 133.2329262777024, 128.621...
+(121.7546279491833, 127.83865698729582, 127.871...
+(107.74597631339205, 118.31005162465837, 126.79...
+(118.07888771346532, 153.3388242405924, 129.396...
+(107.82683445586672, 130.2305919886565, 126.763...
+(116.3495424367486, 122.23183204737126, 119.407...
+(106.72279110590989, 120.54534815681686, 131.38...
+(111.60124317197213, 140.43115464305896, 129.21...
+(130.47934823796894, 134.9251610458507, 126.744...
+(123.95792113696531, 144.804932423018, 125.9296...
+(125.34947403573217, 144.40240440808148, 127.91...
+(114.61478715459297, 135.5663928304705, 126.691...
+(110.74129515131793, 135.37178652782296, 129.54...
+(107.95066486798999, 129.47947581422238, 129.34...
+(124.64705042136838, 132.6089130124268, 128.765...
+(109.22536901476059, 129.69806792271692, 126.54...
+(114.82364307043738, 148.2390655190585, 127.148...
+(105.28321820398212, 142.97575511309765, 128.27...
+(125.02021515545573, 135.34980494148243, 122.95...
+(113.74065054792138, 124.41694207688293, 127.26...
+(109.95085093896714, 133.59272300469485, 130.87...
+(110.44082360570687, 130.32182230869, 128.73881...
+(101.27455252918288, 128.4249027237354, 125.760...
+(118.01594395458389, 126.43278173692475, 127.00...
+(121.35436051096042, 131.3784891972875, 125.021...
+(119.8512891344383, 142.8609576427256, 130.1574...
+(115.35644838432943, 151.34358021160995, 129.75...
+(107.22710951526032, 148.9229802513465, 126.345...
+(110.20434336525308, 134.53009575923392, 129.77...
+(115.74436741767764, 135.80341668729884, 129.18...
+(118.23391263503993, 138.73273837482387, 128.38...
+(107.29120282378496, 137.2883518870486, 131.628...
+(120.73980582524271, 126.35657546337158, 128.14...
+(119.17909029192126, 131.52600135777325, 131.56...
+(111.46334854535083, 156.21534512264688, 128.80...
+(121.3934488668825, 151.34241096933917, 136.590...
+(109.97063037249283, 126.71722779369628, 130.33...
+(123.90891555936562, 147.6697385340763, 131.115...
+(112.00205038078501, 143.7798769771529, 123.726...
+(117.53381340012524, 117.30854727614276, 125.40...
+(114.79120289660722, 135.99906128469894, 130.71...
+(117.86531651173085, 130.46613545816734, 127.03...
+(110.11207602818286, 147.00983123054235, 129.25...
+(105.07267404861906, 151.63981163293877, 123.58...
+(118.22350349831562, 131.66778958279346, 125.03...
+(103.39463601532567, 133.2190293742018, 128.310...
+(109.7725972058576, 131.06547719239185, 126.466...
+(126.33456379968008, 131.7076411960133, 128.536...
+(120.84738602358739, 133.22724872381622, 125.62...
+(112.15447014152572, 139.84691059716948, 128.75...
+(107.589298123697, 115.35846652768126, 132.7388...
+(106.55454338419494, 133.7057617854703, 131.662...
+(110.76744186046511, 141.35105204872647, 128.78...
+(113.5902934537246, 144.8274391773263, 131.6038...
+(116.73933531746032, 137.31299603174602, 122.29...
+(117.2085971982345, 136.60698522356554, 123.097...
+(122.38572687224669, 136.49480176211455, 127.76...
+(121.150974858902, 131.77770651616214, 129.0793...
+(121.33454618960987, 117.66545381039013, 130.31...
+(119.0903040734366, 127.07917383820998, 127.679...
+(109.49061856918048, 137.08074083040793, 126.47...
+(130.72023086269743, 120.88836573511543, 133.04...
+(126.09787720859286, 136.97851785941273, 127.22...
+(111.37326357568104, 139.6225870467256, 127.720...
+(118.17469144174692, 139.20195307201953, 128.46...
+(117.14190114068441, 132.52365019011407, 129.02...
+(129.23429519918284, 135.47459141981614, 126.08...
+(110.54688463911165, 134.80367057371993, 127.67...
+(107.94606144606145, 143.63640563640564, 125.84...
+(101.42205700123915, 148.53928128872366, 127.22...
+(115.84936510697513, 143.44529483388416, 127.36...
+(115.9417717577456, 144.05309045617312, 131.614...
+(108.56191059399877, 151.1260257195346, 132.547...
+(111.1566314634481, 121.51803593471404, 128.139...
+(105.10186318509452, 142.56833945328438, 122.70...
+(122.3340237243457, 134.50122387497646, 128.713...
+(106.69706083390294, 118.77006151742994, 127.14...
+(108.8889751552795, 129.84433229813664, 127.530...
+(115.49931952215333, 134.7789203084833, 126.747...
+(119.82432619212163, 139.76945404284726, 127.90...
+(112.95037142405563, 134.1224909119646, 128.146...
+(113.4263745829102, 133.09661975917598, 130.149...
+(109.38972985561249, 144.82824871914298, 127.53...
+(115.27438944756432, 130.357973096513, 128.1994...
+(105.24967591392274, 137.84184599429608, 127.61...
+(101.68988105499052, 143.6822961558352, 127.444...
+(117.51853501057553, 127.12924412779695, 127.66...
+(110.41001803801859, 137.00624392951298, 125.22...
+(112.52842377260981, 133.66666666666666, 125.74...
+(111.89851024208566, 139.86020218143122, 125.28...
+(122.0891768292683, 135.9622713414634, 128.3016...
+(110.90032534753031, 119.5304643596569, 128.527...
+(121.86649752325722, 140.2575812492449, 125.595...
+(121.44304846058263, 125.60209857793731, 126.23...
+(113.71515655306179, 133.56885563868107, 130.48...
+(116.25271002710028, 140.61531165311652, 128.56...
+(116.66453524641298, 127.46241422333125, 126.16...
+(119.62844136137004, 128.79536093648386, 127.11...
+(118.12772012052227, 140.9683629059257, 127.334...
+(114.02728988242126, 135.04137030047903, 127.10...
+(112.10505944152612, 139.6061653303843, 127.350...
+(115.6173765730881, 115.02637947725073, 120.934...
+(112.86269896193771, 138.56096885813147, 127.15...
+(122.22040559660431, 125.86118534821568, 125.25...
+(106.82157594812341, 140.37472980939282, 128.66...
+(102.8451242829828, 136.91344805608668, 129.704...
+(107.80606508875739, 132.6835798816568, 125.876...
+(113.46758828996282, 141.26847118959108, 126.94...
+(113.38172189027702, 128.79970124932103, 129.23...
+(113.26086232728484, 135.9535541867821, 127.724...
+(104.88427912891432, 122.22428866634876, 128.32...
+(99.19273936538728, 155.48385755854233, 129.343...
+(110.6143879986362, 128.25366518922604, 131.708...
+(110.40301670406383, 126.28733482921965, 128.12...
+(111.90330754867965, 138.2914110429448, 129.652...
+(109.1640873015873, 135.6236111111111, 117.1670...
+(118.46602608098833, 122.7872340425532, 128.994...
+(113.68787993920972, 121.9582066869301, 125.413...
+(115.79217635066259, 121.62283384301733, 125.66...
+(107.56909982688978, 139.84881708020774, 124.65...
+(107.81706045865184, 133.26337734537873, 128.67...
+(106.2372842347526, 132.49021864211738, 129.586...
+(110.59266858158938, 133.1972370400766, 127.894...
+(108.93234219478393, 122.31674436184956, 125.50...
+(103.90610239939542, 129.07783865482713, 128.06...
+(115.81482101037136, 134.81080628972902, 128.50...
+(112.10415458937199, 135.90821256038646, 128.79...
+(116.68534949145207, 126.95109283704826, 129.39...
+(112.95203281027104, 132.2610556348074, 127.355...
+(105.08675130208333, 147.43733723958334, 127.46...
+(111.17946902654867, 141.0848377581121, 126.133...
+(108.46009113626342, 129.50624724386302, 128.34...
+(116.95979487179487, 141.17887179487178, 130.96...
+(112.27635327635328, 127.89755976712499, 128.64...
+(111.63044828014405, 112.49944120203651, 128.48...
+(117.12290502793296, 128.08296089385476, 126.69...
+(102.33943402030144, 143.88219009535527, 129.64...
+(118.80354946406607, 146.7720962923915, 124.491...
+(119.26421136909528, 137.97437950360288, 128.30...
+(113.68517080745342, 141.04710144927537, 125.77...
+(129.85643717196666, 131.06807656684163, 126.72...
+(113.11357229158276, 133.78211840515505, 126.47...
+(104.15094650205761, 157.09843621399176, 129.65...
+(115.64648318042813, 120.40642201834862, 128.57...
+(117.85604254538787, 137.56702732440857, 125.47...
+(106.14742909146064, 159.33975428484757, 126.66...
+(120.6515293383271, 129.1118913857678, 128.8444...
+(114.89631013545072, 146.94768799626343, 125.72...
+(115.43404183535762, 128.3783738191633, 125.230...
+(102.38344511696384, 125.35138230001635, 132.53...
+(117.20924932975872, 136.16461126005362, 126.11...
+(116.89845862628448, 124.96038399134667, 123.80...
+(118.14311084800947, 139.93562231759657, 122.29...
+(119.97168966135101, 129.0865436301738, 131.374...
+(113.15188794153471, 128.56345919610231, 124.57...
+(110.09639713971397, 129.0613311331133, 127.849...
+(108.0635989010989, 116.5260989010989, 126.9060...
+(125.61034611090436, 130.3585783401563, 129.713...
+(116.85214269688132, 142.34406551492035, 124.76...
+(97.84358164592234, 136.9468697752183, 127.4859...
+(108.94585020242916, 135.46457489878543, 127.39...
+(117.01176106468586, 134.7799442896936, 127.638...
+(109.77504432624113, 130.95146276595744, 125.78...
+(121.15739885460927, 123.98651394790319, 129.99...
+(107.26721105527638, 130.97223618090453, 124.84...
+(104.37805062907383, 132.29513415188723, 130.72...
+(111.57880237784543, 133.7904886182398, 124.145...
+(102.2440350347327, 119.35140440954395, 128.332...
+(121.15794494412647, 131.10874897792314, 126.67...
+(116.11892642295234, 145.86395187413234, 127.98...
+(104.94268684089867, 142.77426257068623, 125.95...
+(105.65465032444123, 140.97202595529922, 123.57...
+(101.26582278481013, 141.64283659378597, 130.17...
+(122.28840716305372, 150.36757775683319, 126.74...
+(122.59541984732824, 140.36391394864677, 125.45...
+(112.4679291386683, 149.31826511912035, 127.997...
+(106.08751257364564, 123.61258801551948, 129.98...
+(119.64243348584985, 134.12455516014234, 126.80...
+(107.45004433934378, 131.856783919598, 129.9714...
+(121.80221453287197, 135.01038062283737, 124.40...
+(121.39773910456641, 132.62769596906142, 128.88...
+(120.97130133597229, 130.04007916872834, 127.98...
+(109.96026308577693, 130.3650315154837, 128.656...
+(110.68416144931398, 135.54442520314373, 127.80...
+(111.66494845360825, 143.53748828491098, 129.60...
+(116.67872376727522, 129.89370414605017, 126.79...
+(111.11767456359102, 119.33634663341645, 127.38...
+(114.23377386196769, 141.53817914831131, 127.33...
+(103.89697781747805, 135.9822837576299, 124.273...
+(114.85315533980582, 125.06830790568655, 129.63...
+(111.28785463818936, 129.67580490914887, 129.49...
+(105.61197646244375, 129.00103842159916, 130.55...
+(117.20076450058168, 131.46185806880504, 128.95...
+(112.20119555935098, 143.00222032450895, 125.93...
+(108.34328084950567, 142.09923105089712, 134.74...
+(118.38547877937566, 126.29814100315679, 126.38...
+(113.95673276938011, 146.73706836777146, 126.12...
+(126.89421347720301, 138.0064529778906, 125.561...
+(114.22744165303999, 136.8962390367177, 128.596...
+(113.45993527508091, 131.58343042071198, 129.60...
+(110.14768867227883, 140.5352237483385, 123.491...
+(124.92612372051624, 130.75760272956535, 127.35...
+(127.49545844044559, 136.0044558697515, 127.123...
+(114.03478495348524, 133.02116758797357, 129.18...
+(115.99112925936356, 134.192621796677, 129.4463...
+(124.75049726504227, 137.55482347091, 131.04674...
+(111.12904113358096, 132.1251891594442, 127.346...
+(123.63359040274207, 117.08414738646101, 128.84...
+(106.74250543084722, 141.1174511223751, 125.490...
+(115.08339067015274, 119.78656942342094, 127.49...
+(115.99161927566597, 137.65504340017958, 129.49...
+
+Column: diagnostics_Mask-original_CenterOfMass
+(121.94230227976358, 129.27272727272728, 128.40...
+(107.06170458927883, 135.28088443244633, 128.27...
+(103.3640972118682, 135.28164604144922, 128.986...
+(116.29827315541601, 118.67431469629271, 129.30...
+(108.26561977948546, 132.05462746408287, 127.67...
+(112.91043256997456, 112.95776081424937, 127.90...
+(113.76249134948097, 133.83778546712801, 132.16...
+(117.59915661239312, 159.33840927726368, 124.56...
+(130.86013052506675, 137.42895283298725, 130.53...
+(113.85841150719199, 133.05228267667292, 125.29...
+(112.70377760042564, 139.3269486565576, 126.716...
+(122.26233968130587, 144.00466381655656, 129.18...
+(121.58388037928519, 141.02862873814735, 130.00...
+(122.21409214092141, 134.60007742934573, 127.15...
+(105.80310965630115, 123.13142389525368, 126.82...
+(116.84718498659518, 144.78194816800715, 127.44...
+(124.82732390080633, 134.15609310816978, 126.18...
+(119.0232661529342, 133.60936573799646, 126.922...
+(111.49203903441192, 145.24413627803457, 125.88...
+(114.55286276885792, 122.25583156619206, 130.61...
+(105.78881501759875, 160.76691435275714, 127.26...
+(111.23893318669234, 113.88740720373934, 131.95...
+(131.16218590757336, 131.00456861711476, 126.06...
+(107.94793435200906, 118.63992642897567, 125.35...
+(111.56792994937749, 135.8070871528253, 128.996...
+(123.30931276620237, 142.36917232646482, 127.13...
+(120.59743146455915, 153.31649790071623, 128.49...
+(108.56701324597636, 127.35522005412335, 127.39...
+(109.13708118556701, 130.57184278350516, 131.19...
+(128.66275192112514, 129.47745396549223, 126.27...
+(112.30596369922213, 113.59427089764168, 131.31...
+(114.35545826860613, 140.50077672645108, 125.03...
+(126.0434208042288, 115.2744949971682, 130.0353...
+(120.19064791441279, 130.2579636975598, 125.258...
+(107.67738634702529, 125.88539687180237, 132.10...
+(129.04319852941177, 128.853125, 125.0693014705...
+(120.57749961366095, 114.5424200278164, 126.738...
+(112.3488762593645, 144.78106432446396, 126.419...
+(104.98042038583357, 132.8234955369997, 125.287...
+(111.3784594864955, 137.581027009003, 127.09553...
+(118.10099337748345, 133.59243929359823, 128.68...
+(126.27735849056604, 143.3375786163522, 133.437...
+(120.14264753831105, 144.77306814476688, 125.11...
+(112.7464562326465, 145.95689025281308, 128.829...
+(107.87072614783459, 141.8196027352654, 128.702...
+(112.89352392065344, 125.44647024504084, 126.81...
+(108.27338696955356, 118.37829310616817, 120.85...
+(107.92701743558094, 136.32602993365222, 128.50...
+(106.66006884681583, 126.18918531267929, 126.26...
+(117.33632355177133, 133.55040291926412, 127.95...
+(108.89162640901772, 148.88132045088568, 129.46...
+(123.18210484824596, 142.31119432400473, 125.27...
+(111.95554280797361, 127.33500645346336, 129.16...
+(123.52574146614438, 117.05204252937885, 124.88...
+(111.97802197802197, 124.53499761108456, 131.22...
+(126.62345860246623, 138.28273634762184, 125.43...
+(108.16543924250395, 142.13335086796423, 129.56...
+(113.91043230649754, 125.36254206575201, 127.52...
+(105.86909683076537, 131.38293874483276, 128.54...
+(117.03775459513164, 134.35187945024012, 124.10...
+(118.18073055873744, 153.7776505027364, 125.810...
+(107.09383839626122, 145.63239453941705, 128.87...
+(102.61670235546039, 120.45289079229121, 128.24...
+(104.7754726451397, 121.27421783503429, 131.310...
+(112.08522578961107, 149.34220830070478, 129.07...
+(115.33302251232183, 129.84441188224324, 132.83...
+(121.44408866995074, 153.9740147783251, 127.857...
+(105.9689187217277, 135.2201955348023, 129.7234...
+(106.76700527195577, 114.14607175003215, 126.20...
+(123.31900289017341, 154.95393786127167, 126.93...
+(114.12283541026056, 137.7027027027027, 126.438...
+(123.45408614374132, 147.39749905267146, 125.22...
+(124.71419340943356, 134.08507430540598, 123.72...
+(117.26615581098339, 139.97931034482758, 133.98...
+(125.15562185929649, 135.18702889447235, 127.25...
+(106.8462096481683, 166.7867247007617, 128.3657...
+(129.45436262376236, 118.88598391089108, 133.31...
+(120.81986368062317, 132.63207678397552, 128.58...
+(116.88688128260593, 138.42130041990075, 128.63...
+(105.4481320880587, 151.50466977985323, 127.777...
+(125.50420757363254, 121.8225806451613, 127.782...
+(112.47507093635996, 124.86245102013241, 131.25...
+(124.48590504451039, 138.52299703264094, 129.83...
+(122.41574454631679, 153.12235219728106, 129.49...
+(111.70650289017341, 140.06040462427745, 131.74...
+(108.28950338600451, 142.31960120391273, 126.90...
+(113.08808973935994, 139.135103926097, 128.4076...
+(109.23386366576122, 139.18251196481697, 131.84...
+(109.26755194885037, 134.4286241239395, 128.210...
+(119.05990783410138, 122.0441760686477, 128.668...
+(111.68646513747531, 141.22284672641652, 127.14...
+(115.84716459197787, 123.31424619640387, 127.98...
+(123.27970882620563, 146.1879890809827, 125.913...
+(108.06712480058903, 139.4223831144926, 126.166...
+(112.45303784109754, 133.2329262777024, 128.621...
+(121.7546279491833, 127.83865698729582, 127.871...
+(107.74597631339205, 118.31005162465837, 126.79...
+(118.07888771346532, 153.3388242405924, 129.396...
+(107.82683445586672, 130.2305919886565, 126.763...
+(116.3495424367486, 122.23183204737126, 119.407...
+(106.72279110590989, 120.54534815681686, 131.38...
+(111.60124317197213, 140.43115464305896, 129.21...
+(130.47934823796894, 134.9251610458507, 126.744...
+(123.95792113696531, 144.804932423018, 125.9296...
+(125.34947403573217, 144.40240440808148, 127.91...
+(114.61478715459297, 135.5663928304705, 126.691...
+(110.74129515131793, 135.37178652782296, 129.54...
+(107.95066486798999, 129.47947581422238, 129.34...
+(124.64705042136838, 132.6089130124268, 128.765...
+(109.22536901476059, 129.69806792271692, 126.54...
+(114.82364307043738, 148.2390655190585, 127.148...
+(105.28321820398212, 142.97575511309765, 128.27...
+(125.02021515545573, 135.34980494148243, 122.95...
+(113.74065054792138, 124.41694207688293, 127.26...
+(109.95085093896714, 133.59272300469485, 130.87...
+(110.44082360570687, 130.32182230869, 128.73881...
+(101.27455252918288, 128.4249027237354, 125.760...
+(118.01594395458389, 126.43278173692475, 127.00...
+(121.35436051096042, 131.3784891972875, 125.021...
+(119.8512891344383, 142.8609576427256, 130.1574...
+(115.35644838432943, 151.34358021160995, 129.75...
+(107.22710951526032, 148.9229802513465, 126.345...
+(110.20434336525308, 134.53009575923392, 129.77...
+(115.74436741767764, 135.80341668729884, 129.18...
+(118.23391263503993, 138.73273837482387, 128.38...
+(107.29120282378496, 137.2883518870486, 131.628...
+(120.73980582524271, 126.35657546337158, 128.14...
+(119.17909029192126, 131.52600135777325, 131.56...
+(111.46334854535083, 156.21534512264688, 128.80...
+(121.3934488668825, 151.34241096933917, 136.590...
+(109.97063037249283, 126.71722779369628, 130.33...
+(123.90891555936562, 147.6697385340763, 131.115...
+(112.00205038078501, 143.7798769771529, 123.726...
+(117.53381340012524, 117.30854727614276, 125.40...
+(114.79120289660722, 135.99906128469894, 130.71...
+(117.86531651173085, 130.46613545816734, 127.03...
+(110.11207602818286, 147.00983123054235, 129.25...
+(105.07267404861906, 151.63981163293877, 123.58...
+(118.22350349831562, 131.66778958279346, 125.03...
+(103.39463601532567, 133.2190293742018, 128.310...
+(109.7725972058576, 131.06547719239185, 126.466...
+(126.33456379968008, 131.7076411960133, 128.536...
+(120.84738602358739, 133.22724872381622, 125.62...
+(112.15447014152572, 139.84691059716948, 128.75...
+(107.589298123697, 115.35846652768126, 132.7388...
+(106.55454338419494, 133.7057617854703, 131.662...
+(110.76744186046511, 141.35105204872647, 128.78...
+(113.5902934537246, 144.8274391773263, 131.6038...
+(116.73933531746032, 137.31299603174602, 122.29...
+(117.2085971982345, 136.60698522356554, 123.097...
+(122.38572687224669, 136.49480176211455, 127.76...
+(121.150974858902, 131.77770651616214, 129.0793...
+(121.33454618960987, 117.66545381039013, 130.31...
+(119.0903040734366, 127.07917383820998, 127.679...
+(109.49061856918048, 137.08074083040793, 126.47...
+(130.72023086269743, 120.88836573511543, 133.04...
+(126.09787720859286, 136.97851785941273, 127.22...
+(111.37326357568104, 139.6225870467256, 127.720...
+(118.17469144174692, 139.20195307201953, 128.46...
+(117.14190114068441, 132.52365019011407, 129.02...
+(129.23429519918284, 135.47459141981614, 126.08...
+(110.54688463911165, 134.80367057371993, 127.67...
+(107.94606144606145, 143.63640563640564, 125.84...
+(101.42205700123915, 148.53928128872366, 127.22...
+(115.84936510697513, 143.44529483388416, 127.36...
+(115.9417717577456, 144.05309045617312, 131.614...
+(108.56191059399877, 151.1260257195346, 132.547...
+(111.1566314634481, 121.51803593471404, 128.139...
+(105.10186318509452, 142.56833945328438, 122.70...
+(122.3340237243457, 134.50122387497646, 128.713...
+(106.69706083390294, 118.77006151742994, 127.14...
+(108.8889751552795, 129.84433229813664, 127.530...
+(115.49931952215333, 134.7789203084833, 126.747...
+(119.82432619212163, 139.76945404284726, 127.90...
+(112.95037142405563, 134.1224909119646, 128.146...
+(113.4263745829102, 133.09661975917598, 130.149...
+(109.38972985561249, 144.82824871914298, 127.53...
+(115.27438944756432, 130.357973096513, 128.1994...
+(105.24967591392274, 137.84184599429608, 127.61...
+(101.68988105499052, 143.6822961558352, 127.444...
+(117.51853501057553, 127.12924412779695, 127.66...
+(110.41001803801859, 137.00624392951298, 125.22...
+(112.52842377260981, 133.66666666666666, 125.74...
+(111.89851024208566, 139.86020218143122, 125.28...
+(122.0891768292683, 135.9622713414634, 128.3016...
+(110.90032534753031, 119.5304643596569, 128.527...
+(121.86649752325722, 140.2575812492449, 125.595...
+(121.44304846058263, 125.60209857793731, 126.23...
+(113.71515655306179, 133.56885563868107, 130.48...
+(116.25271002710028, 140.61531165311652, 128.56...
+(116.66453524641298, 127.46241422333125, 126.16...
+(119.62844136137004, 128.79536093648386, 127.11...
+(118.12772012052227, 140.9683629059257, 127.334...
+(114.02728988242126, 135.04137030047903, 127.10...
+(112.10505944152612, 139.6061653303843, 127.350...
+(115.6173765730881, 115.02637947725073, 120.934...
+(112.86269896193771, 138.56096885813147, 127.15...
+(122.22040559660431, 125.86118534821568, 125.25...
+(106.82157594812341, 140.37472980939282, 128.66...
+(102.8451242829828, 136.91344805608668, 129.704...
+(107.80606508875739, 132.6835798816568, 125.876...
+(113.46758828996282, 141.26847118959108, 126.94...
+(113.38172189027702, 128.79970124932103, 129.23...
+(113.26086232728484, 135.9535541867821, 127.724...
+(104.88427912891432, 122.22428866634876, 128.32...
+(99.19273936538728, 155.48385755854233, 129.343...
+(110.6143879986362, 128.25366518922604, 131.708...
+(110.40301670406383, 126.28733482921965, 128.12...
+(111.90330754867965, 138.2914110429448, 129.652...
+(109.1640873015873, 135.6236111111111, 117.1670...
+(118.46602608098833, 122.7872340425532, 128.994...
+(113.68787993920972, 121.9582066869301, 125.413...
+(115.79217635066259, 121.62283384301733, 125.66...
+(107.56909982688978, 139.84881708020774, 124.65...
+(107.81706045865184, 133.26337734537873, 128.67...
+(106.2372842347526, 132.49021864211738, 129.586...
+(110.59266858158938, 133.1972370400766, 127.894...
+(108.93234219478393, 122.31674436184956, 125.50...
+(103.90610239939542, 129.07783865482713, 128.06...
+(115.81482101037136, 134.81080628972902, 128.50...
+(112.10415458937199, 135.90821256038646, 128.79...
+(116.68534949145207, 126.95109283704826, 129.39...
+(112.95203281027104, 132.2610556348074, 127.355...
+(105.08675130208333, 147.43733723958334, 127.46...
+(111.17946902654867, 141.0848377581121, 126.133...
+(108.46009113626342, 129.50624724386302, 128.34...
+(116.95979487179487, 141.17887179487178, 130.96...
+(112.27635327635328, 127.89755976712499, 128.64...
+(111.63044828014405, 112.49944120203651, 128.48...
+(117.12290502793296, 128.08296089385476, 126.69...
+(102.33943402030144, 143.88219009535527, 129.64...
+(118.80354946406607, 146.7720962923915, 124.491...
+(119.26421136909528, 137.97437950360288, 128.30...
+(113.68517080745342, 141.04710144927537, 125.77...
+(129.85643717196666, 131.06807656684163, 126.72...
+(113.11357229158276, 133.78211840515505, 126.47...
+(104.15094650205761, 157.09843621399176, 129.65...
+(115.64648318042813, 120.40642201834862, 128.57...
+(117.85604254538787, 137.56702732440857, 125.47...
+(106.14742909146064, 159.33975428484757, 126.66...
+(120.6515293383271, 129.1118913857678, 128.8444...
+(114.89631013545072, 146.94768799626343, 125.72...
+(115.43404183535762, 128.3783738191633, 125.230...
+(102.38344511696384, 125.35138230001635, 132.53...
+(117.20924932975872, 136.16461126005362, 126.11...
+(116.89845862628448, 124.96038399134667, 123.80...
+(118.14311084800947, 139.93562231759657, 122.29...
+(119.97168966135101, 129.0865436301738, 131.374...
+(113.15188794153471, 128.56345919610231, 124.57...
+(110.09639713971397, 129.0613311331133, 127.849...
+(108.0635989010989, 116.5260989010989, 126.9060...
+(125.61034611090436, 130.3585783401563, 129.713...
+(116.85214269688132, 142.34406551492035, 124.76...
+(97.84358164592234, 136.9468697752183, 127.4859...
+(108.94585020242916, 135.46457489878543, 127.39...
+(117.01176106468586, 134.7799442896936, 127.638...
+(109.77504432624113, 130.95146276595744, 125.78...
+(121.15739885460927, 123.98651394790319, 129.99...
+(107.26721105527638, 130.97223618090453, 124.84...
+(104.37805062907383, 132.29513415188723, 130.72...
+(111.57880237784543, 133.7904886182398, 124.145...
+(102.2440350347327, 119.35140440954395, 128.332...
+(121.15794494412647, 131.10874897792314, 126.67...
+(116.11892642295234, 145.86395187413234, 127.98...
+(104.94268684089867, 142.77426257068623, 125.95...
+(105.65465032444123, 140.97202595529922, 123.57...
+(101.26582278481013, 141.64283659378597, 130.17...
+(122.28840716305372, 150.36757775683319, 126.74...
+(122.59541984732824, 140.36391394864677, 125.45...
+(112.4679291386683, 149.31826511912035, 127.997...
+(106.08751257364564, 123.61258801551948, 129.98...
+(119.64243348584985, 134.12455516014234, 126.80...
+(107.45004433934378, 131.856783919598, 129.9714...
+(121.80221453287197, 135.01038062283737, 124.40...
+(121.39773910456641, 132.62769596906142, 128.88...
+(120.97130133597229, 130.04007916872834, 127.98...
+(109.96026308577693, 130.3650315154837, 128.656...
+(110.68416144931398, 135.54442520314373, 127.80...
+(111.66494845360825, 143.53748828491098, 129.60...
+(116.67872376727522, 129.89370414605017, 126.79...
+(111.11767456359102, 119.33634663341645, 127.38...
+(114.23377386196769, 141.53817914831131, 127.33...
+(103.89697781747805, 135.9822837576299, 124.273...
+(114.85315533980582, 125.06830790568655, 129.63...
+(111.28785463818936, 129.67580490914887, 129.49...
+(105.61197646244375, 129.00103842159916, 130.55...
+(117.20076450058168, 131.46185806880504, 128.95...
+(112.20119555935098, 143.00222032450895, 125.93...
+(108.34328084950567, 142.09923105089712, 134.74...
+(118.38547877937566, 126.29814100315679, 126.38...
+(113.95673276938011, 146.73706836777146, 126.12...
+(126.89421347720301, 138.0064529778906, 125.561...
+(114.22744165303999, 136.8962390367177, 128.596...
+(113.45993527508091, 131.58343042071198, 129.60...
+(110.14768867227883, 140.5352237483385, 123.491...
+(124.92612372051624, 130.75760272956535, 127.35...
+(127.49545844044559, 136.0044558697515, 127.123...
+(114.03478495348524, 133.02116758797357, 129.18...
+(115.99112925936356, 134.192621796677, 129.4463...
+(124.75049726504227, 137.55482347091, 131.04674...
+(111.12904113358096, 132.1251891594442, 127.346...
+(123.63359040274207, 117.08414738646101, 128.84...
+(106.74250543084722, 141.1174511223751, 125.490...
+(115.08339067015274, 119.78656942342094, 127.49...
+(115.99161927566597, 137.65504340017958, 129.49...
+
+Column: Transition
+  CN-CN
+  CN-CN
+  AD-AD
+ CN-MCI
+  CN-CN
+ MCI-AD
+  CN-CN
+  AD-AD
+MCI-MCI
+MCI-MCI
+  CN-CN
+  AD-AD
+  AD-AD
+  AD-AD
+ MCI-AD
+ MCI-AD
+  CN-CN
+MCI-MCI
+ MCI-AD
+ MCI-AD
+  AD-AD
+  CN-CN
+ MCI-AD
+MCI-MCI
+  CN-CN
+  CN-CN
+  AD-AD
+  CN-CN
+  CN-CN
+  CN-CN
+  CN-CN
+ MCI-AD
+MCI-MCI
+ MCI-AD
+  CN-CN
+  AD-AD
+ CN-MCI
+  CN-CN
+  AD-AD
+ MCI-AD
+  CN-CN
+ MCI-AD
+  AD-AD
+  CN-CN
+  AD-AD
+ MCI-AD
+  AD-AD
+  AD-AD
+MCI-MCI
+MCI-MCI
+ MCI-AD
+  AD-AD
+  CN-CN
+  CN-CN
+MCI-MCI
+  AD-AD
+MCI-MCI
+  CN-CN
+MCI-MCI
+  CN-CN
+  CN-CN
+MCI-MCI
+MCI-MCI
+  CN-CN
+ CN-MCI
+  CN-CN
+MCI-MCI
+  AD-AD
+MCI-MCI
+  AD-AD
+MCI-MCI
+ CN-MCI
+  AD-AD
+MCI-MCI
+  CN-CN
+ MCI-AD
+  CN-CN
+  CN-CN
+  CN-CN
+ MCI-AD
+  AD-AD
+  AD-AD
+  CN-CN
+MCI-MCI
+  CN-CN
+ MCI-AD
+  AD-AD
+MCI-MCI
+  CN-CN
+MCI-MCI
+  AD-AD
+MCI-MCI
+  AD-AD
+  CN-CN
+ CN-MCI
+MCI-MCI
+MCI-MCI
+MCI-MCI
+ MCI-AD
+ MCI-AD
+ MCI-AD
+  AD-AD
+MCI-MCI
+ MCI-AD
+ MCI-AD
+MCI-MCI
+  AD-AD
+MCI-MCI
+MCI-MCI
+MCI-MCI
+  AD-AD
+MCI-MCI
+  CN-CN
+ MCI-AD
+  CN-CN
+MCI-MCI
+MCI-MCI
+  AD-AD
+  CN-CN
+MCI-MCI
+ MCI-AD
+  AD-AD
+ MCI-AD
+  CN-CN
+MCI-MCI
+MCI-MCI
+  CN-CN
+  CN-CN
+  CN-CN
+  AD-AD
+ MCI-AD
+  CN-CN
+  AD-AD
+ MCI-AD
+MCI-MCI
+ MCI-AD
+  CN-CN
+  CN-CN
+MCI-MCI
+ MCI-AD
+MCI-MCI
+MCI-MCI
+  AD-AD
+  AD-AD
+  CN-CN
+  AD-AD
+ CN-MCI
+  AD-AD
+MCI-MCI
+  AD-AD
+  CN-CN
+  CN-CN
+ MCI-AD
+ MCI-AD
+MCI-MCI
+ MCI-AD
+  CN-CN
+MCI-MCI
+  AD-AD
+ MCI-AD
+  CN-CN
+ MCI-AD
+  CN-CN
+MCI-MCI
+  AD-AD
+  AD-AD
+  CN-CN
+MCI-MCI
+MCI-MCI
+ MCI-AD
+MCI-MCI
+ MCI-AD
+ CN-MCI
+  CN-CN
+  AD-AD
+ MCI-AD
+  CN-CN
+ MCI-AD
+  CN-CN
+MCI-MCI
+  CN-CN
+MCI-MCI
+MCI-MCI
+MCI-MCI
+ MCI-AD
+  CN-CN
+  CN-CN
+  CN-CN
+ MCI-AD
+  CN-CN
+  CN-CN
+  AD-AD
+  AD-AD
+  CN-CN
+ MCI-AD
+  AD-AD
+ MCI-AD
+ MCI-AD
+  AD-AD
+  CN-CN
+  CN-CN
+  CN-CN
+  CN-CN
+  AD-AD
+ MCI-AD
+  CN-CN
+ MCI-AD
+ MCI-AD
+MCI-MCI
+ MCI-AD
+  CN-CN
+  AD-AD
+  CN-CN
+  CN-CN
+MCI-MCI
+  AD-AD
+  CN-CN
+  CN-CN
+  AD-AD
+MCI-MCI
+  AD-AD
+  AD-AD
+ MCI-AD
+ CN-MCI
+  CN-CN
+MCI-MCI
+ MCI-AD
+  CN-CN
+  CN-CN
+  CN-CN
+ MCI-AD
+MCI-MCI
+  CN-CN
+MCI-MCI
+ MCI-AD
+ CN-MCI
+ MCI-AD
+ MCI-AD
+ MCI-AD
+ MCI-AD
+  AD-AD
+  CN-CN
+ MCI-AD
+  AD-AD
+  CN-CN
+  CN-CN
+ MCI-AD
+ MCI-AD
+MCI-MCI
+  CN-CN
+  CN-CN
+  AD-AD
+  CN-CN
+  AD-AD
+MCI-MCI
+MCI-MCI
+  AD-AD
+ MCI-AD
+ MCI-AD
+ MCI-AD
+MCI-MCI
+MCI-MCI
+  CN-CN
+  AD-AD
+MCI-MCI
+  AD-AD
+  CN-CN
+ MCI-AD
+  CN-CN
+MCI-MCI
+  CN-CN
+  CN-CN
+MCI-MCI
+MCI-MCI
+  CN-CN
+  CN-CN
+ MCI-AD
+  CN-CN
+ MCI-AD
+ MCI-AD
+  CN-CN
+MCI-MCI
+  AD-AD
+ MCI-AD
+MCI-MCI
+MCI-MCI
+  CN-CN
+ MCI-AD
+  AD-AD
+ MCI-AD
+  AD-AD
+MCI-MCI
+  AD-AD
+  CN-CN
+  CN-CN
+ MCI-AD
+MCI-MCI
+  CN-CN
+MCI-MCI
+ CN-MCI
+  CN-CN
+  CN-CN
+ MCI-AD
+MCI-MCI
+  CN-CN
+
