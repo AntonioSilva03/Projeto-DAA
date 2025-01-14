@@ -324,8 +324,8 @@ wavelet-LHL_glszm_LargeAreaHighGrayLevelEmphasis                 0.054852
 log-sigma-1-0-mm-3D_glszm_SmallAreaLowGrayLevelEmphasis          0.054754
 wavelet-HLL_glszm_GrayLevelNonUniformityNormalized               0.054325
 lbp-3D-k_glszm_SmallAreaHighGrayLevelEmphasis                    0.054202
-wavelet-HHH_glcm_JointAverage                                    0.054092
 wavelet-HHH_glcm_SumAverage                                      0.054092
+wavelet-HHH_glcm_JointAverage                                    0.054092
 wavelet-HLH_glcm_Correlation                                     0.054046
 wavelet-LHH_glcm_Idn                                             0.054009
 log-sigma-5-0-mm-3D_glszm_ZoneEntropy                            0.053996
@@ -399,8 +399,8 @@ wavelet-LLH_glcm_JointEnergy                                     0.045689
 wavelet-LLL_firstorder_Median                                    0.045630
 square_ngtdm_Contrast                                            0.045553
 log-sigma-3-0-mm-3D_glszm_ZonePercentage                         0.045535
-wavelet-LHH_glcm_JointAverage                                    0.045348
 wavelet-LHH_glcm_SumAverage                                      0.045348
+wavelet-LHH_glcm_JointAverage                                    0.045348
 wavelet-HLL_glcm_JointEnergy                                     0.045307
 wavelet-HHH_glszm_LargeAreaEmphasis                              0.044843
 wavelet-HHL_firstorder_Uniformity                                0.044715
@@ -475,8 +475,8 @@ wavelet-HLH_gldm_LargeDependenceHighGrayLevelEmphasis            0.036030
 original_glcm_Id                                                 0.035989
 square_glszm_GrayLevelNonUniformity                              0.035872
 lbp-3D-k_glcm_Idn                                                0.035786
-lbp-3D-k_glcm_Idmn                                               0.035786
 lbp-3D-k_glcm_Id                                                 0.035786
+lbp-3D-k_glcm_Idmn                                               0.035786
 wavelet-LHL_glcm_Idn                                             0.035702
 log-sigma-3-0-mm-3D_gldm_LargeDependenceLowGrayLevelEmphasis     0.035583
 squareroot_firstorder_90Percentile                               0.035575
@@ -968,8 +968,8 @@ wavelet-LLH_glrlm_RunEntropy                                    -0.000821
 wavelet-LLL_glcm_SumEntropy                                     -0.000849
 squareroot_firstorder_Uniformity                                -0.000851
 log-sigma-3-0-mm-3D_gldm_DependenceNonUniformityNormalized      -0.000877
-log-sigma-5-0-mm-3D_glcm_Idn                                    -0.001203
 log-sigma-5-0-mm-3D_glcm_Id                                     -0.001203
+log-sigma-5-0-mm-3D_glcm_Idn                                    -0.001203
 log-sigma-5-0-mm-3D_glcm_Idmn                                   -0.001203
 square_gldm_DependenceEntropy                                   -0.001249
 wavelet-LHH_firstorder_90Percentile                             -0.001308
@@ -1089,8 +1089,8 @@ lbp-2D_firstorder_10Percentile                                  -0.006951
 lbp-3D-k_firstorder_Mean                                        -0.007031
 exponential_glcm_DifferenceEntropy                              -0.007050
 wavelet-LLH_firstorder_10Percentile                             -0.007204
-square_glcm_SumAverage                                          -0.007249
 square_glcm_JointAverage                                        -0.007249
+square_glcm_SumAverage                                          -0.007249
 gradient_glcm_SumEntropy                                        -0.007351
 wavelet-LLL_glrlm_RunPercentage                                 -0.007389
 lbp-3D-k_firstorder_Skewness                                    -0.007440
@@ -1123,8 +1123,8 @@ exponential_glrlm_GrayLevelVariance                             -0.008765
 gradient_glrlm_RunVariance                                      -0.008793
 wavelet-LLH_gldm_SmallDependenceEmphasis                        -0.008811
 log-sigma-2-0-mm-3D_glrlm_ShortRunLowGrayLevelEmphasis          -0.008823
-gradient_glcm_SumAverage                                        -0.009008
 gradient_glcm_JointAverage                                      -0.009008
+gradient_glcm_SumAverage                                        -0.009008
 wavelet-LLL_glcm_DifferenceAverage                              -0.009079
 log-sigma-5-0-mm-3D_ngtdm_Complexity                            -0.009165
 squareroot_gldm_SmallDependenceEmphasis                         -0.009173
@@ -1712,8 +1712,8 @@ square_glcm_Idmn                                                -0.048847
 wavelet-HHH_gldm_LargeDependenceLowGrayLevelEmphasis            -0.048864
 wavelet-LLL_glszm_SmallAreaEmphasis                             -0.048977
 gradient_glcm_ClusterProminence                                 -0.048991
-log-sigma-3-0-mm-3D_glcm_JointAverage                           -0.048992
 log-sigma-3-0-mm-3D_glcm_SumAverage                             -0.048992
+log-sigma-3-0-mm-3D_glcm_JointAverage                           -0.048992
 logarithm_glcm_JointEntropy                                     -0.049088
 wavelet-HHL_firstorder_Energy                                   -0.049249
 wavelet-HLH_glszm_ZonePercentage                                -0.049293
@@ -1773,8 +1773,8 @@ exponential_glcm_Correlation                                    -0.057298
 log-sigma-3-0-mm-3D_glrlm_HighGrayLevelRunEmphasis              -0.057385
 wavelet-HHH_firstorder_Minimum                                  -0.057703
 wavelet-LHH_ngtdm_Contrast                                      -0.058094
-original_glcm_SumAverage                                        -0.058176
 original_glcm_JointAverage                                      -0.058176
+original_glcm_SumAverage                                        -0.058176
 original_gldm_HighGrayLevelEmphasis                             -0.058802
 gradient_glcm_Correlation                                       -0.058984
 lbp-3D-k_glszm_GrayLevelVariance                                -0.059520
@@ -1879,8 +1879,8 @@ wavelet-HLL_glcm_Autocorrelation                                -0.090303
 lbp-2D_firstorder_InterquartileRange                            -0.090462
 wavelet-HHL_glcm_Contrast                                       -0.092219
 log-sigma-1-0-mm-3D_gldm_DependenceEntropy                      -0.092799
-wavelet-HLL_glcm_SumAverage                                     -0.093017
 wavelet-HLL_glcm_JointAverage                                   -0.093017
+wavelet-HLL_glcm_SumAverage                                     -0.093017
 original_ngtdm_Strength                                         -0.096391
 wavelet-LLL_ngtdm_Strength                                      -0.096423
 gradient_firstorder_Minimum                                     -0.097620
